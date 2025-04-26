@@ -3082,6 +3082,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 23:13:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
