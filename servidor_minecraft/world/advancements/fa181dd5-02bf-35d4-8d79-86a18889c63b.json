@@ -905,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-04-26 23:31:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -1604,6 +1610,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-04-26 23:31:29 +0000"
     },
     "done": true
   },
@@ -2647,6 +2659,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-26 23:26:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/mahogany_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -3034,6 +3052,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 23:27:55 +0000"
     },
     "done": true
   },
