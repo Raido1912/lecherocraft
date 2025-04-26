@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 21:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -827,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-26 21:52:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -1187,6 +1199,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-04-26 21:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -1505,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 22:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -1613,6 +1637,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 21:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -1643,6 +1673,8 @@
       "deep_ocean": "2025-04-26 21:45:54 +0000",
       "beaches": "2025-04-26 21:42:49 +0000",
       "forest_hills": "2025-04-26 21:47:17 +0000",
+      "plains": "2025-04-26 21:51:49 +0000",
+      "taiga": "2025-04-26 21:56:32 +0000",
       "ocean": "2025-04-26 21:46:14 +0000",
       "river": "2025-04-26 21:45:49 +0000"
     },
@@ -2386,6 +2418,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 21:53:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -2620,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-26 22:01:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/mahogany_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -2707,6 +2751,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-26 22:05:25 +0000"
     },
     "done": true
   },
@@ -2854,6 +2904,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 21:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -2863,6 +2919,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
+    },
+    "done": true
+  },
+  "roots:pacifist": {
+    "criteria": {
+      "book": "2025-04-26 22:00:59 +0000"
     },
     "done": true
   },
@@ -2950,6 +3012,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 21:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -2995,6 +3063,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 22:01:58 +0000"
     },
     "done": true
   },
@@ -3889,6 +3963,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-26 22:08:45 +0000"
     },
     "done": true
   },
