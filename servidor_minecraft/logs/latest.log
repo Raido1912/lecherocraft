@@ -6745,3 +6745,35 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [23:42:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Takuda left the game
 [23:42:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [Purification in Progress]
 [23:42:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[23:46:48] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[23:46:48] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 104 mods : cyclopscore@1.6.7,mclib@2.4.2,astralsorcery@1.10.27,netherportalfix@5.3.17,vampirism_integrations@vampirism_integrations,cofhcore@4.6.6,thermalinnovation@0.3.6,endercore@1.12.2-0.5.78,forgeendertech@1.12.2-4.5.6.1,cookingforblockheads@6.5.0,bewitchment@0.22.63,atum@2.0.20,ironbackpacks@1.12.2-3.0.8-12,llibrary@1.7.20,cofhworld@1.4.0,icbmclassic@6.5.3,treasure2_twilight_forest_lp@2.0.0,morpheus@1.12.2-3.5.106,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,jeresources@0.9.2.60,vampiresneedumbrellas@1.4,teamlapen-lib@1.6.2,mysticalagradditions@1.3.2,mysticallib@1.12.2-1.13.0,twilightforest@3.11.1021,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,unidict@1.12.2-3.0.10,powersuits@1.1.048,commoncapabilities@2.4.8,jehc@1.7.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,treasure2@2.3.2,botania@r1.10-364,patchouli@1.0-23.6,ic2@2.8.222-ex112,camera@1.0.10,tfspellpack@1.1.0,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,gottschcore@1.15.1,thermalexpansion@5.5.7,mekanismtools@1.12.2-9.8.3.390,charm@1.4,wings@1.1.6,codechickenlib@3.2.2.353,geckolib3@3.0.30,agricraft@2.12.0-1.12.2-b2,mowziesmobs@1.5.8,cucumber@1.1.3,cgm@0.15.3,jee@1.0.8,treasure2_wizardry_lp@2.0.0,ebwizardry@4.3.14,jei@4.16.1.1013,bibliocraft@2.4.6,mekanism@1.12.2-9.8.3.390,bauble_wings@1.0.0,thermalfoundation@2.6.7,bdlib@1.14.4.1,opencomputers@1.8.8,waystones@4.1.0,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,nuclearcraft@2.19a,artifacts@1.12.2-1.2.4,harvestcraft@1.12.2zb,foamfixcore@7.7.4,roots@1.12.2-3.1.9.2,tlauncher_custom_cape_skin@1.4,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2860,mod_lavacow@1.5.2,mysticalagriculture@1.7.5,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,thermaldynamics@2.5.6,baubles@1.5.2,jade@0.1.0,numina@1.0,tweakersconstructpostload@1.12.2-1.6.1,quark@r1.6-179,mantle@1.12-1.3.3.55,theaurorian@1.12.2-Release,autoreglib@1.3-32,fluxnetworks@4.1.0,midnight@0.3.5,structurize@1.12.2-0.10.277-RELEASE,erebus@1.0.32,minecolonies@1.12.2-0.11.841-ALPHA,wanionlib@1.12.2-2.91,appleskin@1.0.14,infinitylib@1.12.2-1.12.1,vampirism@1.6.2,foamfix@@VERSION@,tinkersjei@1.2,opencomputers|core@1.8.8,tweakersconstruct@1.12.2-1.6.1,cosmeticarmorreworked@1.12.2-v5a
+[23:46:48] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[23:46:48] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[23:46:55] [Server thread/INFO] [agricraft]: Opening Seed Analyzer GUI!
+[23:46:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:46:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: nuclearcraft:item.minecraft:cookie removed now.
+[23:46:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: nuclearcraft:item.minecraft:cookie removed now.
+[23:46:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Arwen-x3[/127.244.139.99:36349] logged in with entity id 205576 at (-510.5, 70.0, 509.5)
+[23:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Arwen-x3 joined the game
+[23:46:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Arwen-x3
+[23:46:58] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Arwen-x3
+[23:46:58] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Arwen-x3
+[23:46:58] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Arwen-x3
+[23:46:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Arwen-x3
+[23:46:58] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Arwen-x3'/205576, l='world', x=-510.50, y=70.00, z=509.50] connected. Sending ping
+[23:46:58] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[23:46:58] [Server thread/INFO] [Mekanism]: Sent config to 'Arwen-x3.'
+[23:46:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Arwen-x3...
+[23:46:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Arwen-x3
+[23:47:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> a
+[23:47:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> oye we traes weso
+[23:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Oasins> juas
+[23:47:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Magic Writing]
+[23:47:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[23:49:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> que paso we
+[23:49:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> vales madres
+[23:51:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
+[23:51:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[23:53:42] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:53:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[23:53:52] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
