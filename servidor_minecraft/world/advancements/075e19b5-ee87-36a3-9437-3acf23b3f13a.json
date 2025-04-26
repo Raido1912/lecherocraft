@@ -2416,7 +2416,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-04-26 22:09:50 +0000"
+      "beef": "2025-04-26 22:17:18 +0000",
+      "apple": "2025-04-26 22:09:50 +0000",
+      "beetroot": "2025-04-26 22:11:18 +0000"
     },
     "done": false
   },

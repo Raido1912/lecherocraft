@@ -1,0 +1,12 @@
+#Dynamically calculated blood values - DON'T EDIT
+mysticalworld:entity_fox=4
+mod_lavacow:zombiemushroom=15
+mod_lavacow:scarecrow=15
+mod_lavacow:zombiefrozen=15
+quark:crab=4
+mysticalworld:entity_silkworm=3
+mod_lavacow:mimic=10
+mysticalworld:entity_deer=10
+bewitchment:snake=3
+midnight:nightstag=15
+mysticalworld:entity_beetle=4
