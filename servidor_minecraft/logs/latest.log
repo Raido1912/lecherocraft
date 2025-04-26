@@ -3623,3 +3623,22 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [22:32:43] [Server thread/INFO] [Mekanism]: Sent config to 'kitsette.'
 [22:32:43] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for kitsette...
 [22:32:43] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to kitsette
+[22:33:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[22:34:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kitsette has made the advancement [Stone Age]
+[22:34:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for kitsette
+[22:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [Suit Up]
+[22:34:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[22:34:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[22:35:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Yuck!]
+[22:35:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[22:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to kitsette]
+[22:36:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [Stone Age]
+[22:36:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[22:37:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [Getting an Upgrade]
+[22:37:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[22:37:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kitsette was slain by moltgames
+[22:37:08] [Server thread/INFO] [tombstone]: The last known grave of kitsette is at location [name:Last Grave, x:-541, y:70, z:612] in the dimension 0
+[22:37:08] [Server thread/INFO] [tombstone]: kitsette has successfully been saved
+[22:37:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to kitsette
+[22:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> oasin vas a caer
+[22:42:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> ojala te secuestre el vato del saco

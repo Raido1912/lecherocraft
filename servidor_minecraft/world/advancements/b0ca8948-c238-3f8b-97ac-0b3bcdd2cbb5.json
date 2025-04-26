@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-26 22:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -2383,6 +2389,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2025-04-26 22:36:25 +0000",
+      "carrot": "2025-04-26 22:34:38 +0000"
+    },
+    "done": false
+  },
   "treasure2:recipes/sapphire_key": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -2623,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-26 22:36:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/mahogany_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -2710,6 +2729,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-26 22:34:38 +0000"
     },
     "done": true
   },
@@ -3004,6 +3029,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 22:37:02 +0000"
     },
     "done": true
   },
@@ -3412,6 +3443,13 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2025-04-26 22:33:11 +0000",
+      "red_flower": "2025-04-26 22:33:11 +0000"
     },
     "done": true
   },
