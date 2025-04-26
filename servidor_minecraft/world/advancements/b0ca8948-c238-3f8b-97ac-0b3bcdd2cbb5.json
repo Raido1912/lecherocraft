@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 23:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-04-26 23:36:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/ominous_terrarium": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -914,7 +926,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-04-26 23:16:20 +0000",
+      "skeleton": "2025-04-26 23:41:56 +0000",
       "zombie": "2025-04-26 22:49:11 +0000",
+      "spider": "2025-04-26 23:40:59 +0000",
       "creeper": "2025-04-26 22:47:27 +0000"
     },
     "done": false
@@ -2000,6 +2014,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 23:41:56 +0000"
     },
     "done": true
   },
@@ -3775,6 +3795,12 @@
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:purification_in_progress": {
+    "criteria": {
+      "ghost": "2025-04-26 23:42:27 +0000"
     },
     "done": true
   },
