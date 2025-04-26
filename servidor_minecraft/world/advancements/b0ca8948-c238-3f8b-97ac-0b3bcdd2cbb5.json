@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-26 22:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -734,6 +740,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 22:49:30 +0000"
     },
     "done": true
   },
@@ -898,6 +910,13 @@
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-04-26 22:49:11 +0000",
+      "creeper": "2025-04-26 22:47:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1199,6 +1218,12 @@
     },
     "done": true
   },
+  "roots:all_the_herbs_3": {
+    "criteria": {
+      "wildroot": "2025-04-26 22:51:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -1382,6 +1407,12 @@
   "biomesoplenty:recipes/buildingblocks/malachite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-26 22:44:45 +0000"
     },
     "done": true
   },
@@ -1601,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "creeper": "2025-04-26 22:47:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -1653,7 +1690,9 @@
     "criteria": {
       "forest": "2025-04-26 22:26:47 +0000",
       "forest_hills": "2025-04-26 22:26:17 +0000",
-      "plains": "2025-04-26 22:26:35 +0000"
+      "plains": "2025-04-26 22:26:35 +0000",
+      "taiga": "2025-04-26 22:44:48 +0000",
+      "taiga_hills": "2025-04-26 22:45:14 +0000"
     },
     "done": false
   },
@@ -1834,6 +1873,12 @@
   "biomesoplenty:recipes/redstone/ebony_door": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-04-26 22:44:09 +0000"
     },
     "done": true
   },
@@ -2391,6 +2436,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-26 22:46:24 +0000",
       "potato": "2025-04-26 22:36:25 +0000",
       "carrot": "2025-04-26 22:34:38 +0000"
     },
@@ -3146,6 +3192,12 @@
     },
     "done": true
   },
+  "roots:wildroot": {
+    "criteria": {
+      "book": "2025-04-26 22:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -3251,6 +3303,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-04-26 22:44:45 +0000"
     },
     "done": true
   },

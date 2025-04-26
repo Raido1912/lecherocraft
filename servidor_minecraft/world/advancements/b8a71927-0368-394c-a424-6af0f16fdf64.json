@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 22:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -218,6 +224,12 @@
   "biomesoplenty:recipes/buildingblocks/hellbark_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-04-26 22:50:08 +0000"
     },
     "done": true
   },
@@ -915,7 +927,8 @@
     "criteria": {
       "skeleton": "2025-04-26 21:58:06 +0000",
       "silverfish": "2025-04-26 22:17:12 +0000",
-      "zombie": "2025-04-26 22:17:19 +0000"
+      "zombie": "2025-04-26 22:17:19 +0000",
+      "witch": "2025-04-26 22:48:53 +0000"
     },
     "done": false
   },
@@ -1219,6 +1232,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-04-26 22:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1228,6 +1247,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_zombiefrozen": {
+    "criteria": {
+      "kill_zombiefrozen": "2025-04-26 22:46:33 +0000"
     },
     "done": true
   },
@@ -1471,6 +1496,12 @@
     },
     "done": true
   },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2025-04-26 22:46:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ruby_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1525,6 +1556,12 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-04-26 22:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1548,6 +1585,12 @@
       "iron_pickaxe": "2025-04-26 21:56:58 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-04-26 22:43:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
@@ -1981,6 +2024,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 22:49:21 +0000"
     },
     "done": true
   },
