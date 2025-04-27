@@ -4077,6 +4077,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_silver": {
+    "criteria": {
+      "hat": "2025-04-27 01:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
