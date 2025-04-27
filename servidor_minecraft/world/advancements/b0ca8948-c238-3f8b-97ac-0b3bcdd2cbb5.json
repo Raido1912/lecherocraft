@@ -1737,7 +1737,8 @@
       "forest_hills": "2025-04-26 22:26:17 +0000",
       "plains": "2025-04-26 22:26:35 +0000",
       "taiga": "2025-04-26 22:44:48 +0000",
-      "taiga_hills": "2025-04-26 22:45:14 +0000"
+      "taiga_hills": "2025-04-26 22:45:14 +0000",
+      "river": "2025-04-27 00:00:10 +0000"
     },
     "done": false
   },
@@ -3904,6 +3905,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-04-26 23:53:49 +0000"
     },
     "done": true
   },

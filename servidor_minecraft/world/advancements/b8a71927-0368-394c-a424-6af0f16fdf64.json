@@ -1324,6 +1324,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-04-26 23:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1903,6 +1909,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-04-26 23:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1990,6 +2002,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_true_sight": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 23:57:23 +0000"
     },
     "done": true
   },
@@ -2200,6 +2218,12 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2025-04-26 23:56:21 +0000"
     },
     "done": true
   },
@@ -3751,6 +3775,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_remnant": {
+    "criteria": {
+      "lightning": "2025-04-26 23:54:54 +0000"
     },
     "done": true
   },
