@@ -1366,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-27 00:49:21 +0000"
+    },
+    "done": true
+  },
   "bewitchment:root": {
     "criteria": {
       "tick": "2025-04-26 22:26:18 +0000"
@@ -2238,6 +2244,12 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_garnet": {
+    "criteria": {
+      "hat": "2025-04-27 00:52:10 +0000"
     },
     "done": true
   },
@@ -3798,6 +3810,12 @@
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-04-27 00:52:10 +0000"
     },
     "done": true
   },
