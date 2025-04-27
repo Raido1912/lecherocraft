@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "astralsorcery:root": {
-    "criteria": {
-      "astralsorcery_present": "2025-04-26 22:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2025-04-26 22:26:18 +0000"
     },
     "done": true
   },
@@ -665,12 +665,6 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-04-26 22:44:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -686,6 +680,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-26 22:44:45 +0000"
     },
     "done": true
   },
@@ -755,12 +755,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-26 22:49:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -770,6 +764,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 22:49:30 +0000"
     },
     "done": true
   },
@@ -1372,15 +1372,15 @@
     },
     "done": true
   },
-  "bewitchment:root": {
-    "criteria": {
-      "tick": "2025-04-26 22:26:18 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:root": {
+    "criteria": {
+      "tick": "2025-04-26 22:26:18 +0000"
     },
     "done": true
   },
@@ -1450,15 +1450,15 @@
     },
     "done": true
   },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-04-26 22:44:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-26 22:44:45 +0000"
     },
     "done": true
   },
@@ -1570,15 +1570,15 @@
     },
     "done": true
   },
-  "ebwizardry:root": {
-    "criteria": {
-      "criteria_0": "2025-04-26 23:25:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-04-26 23:25:19 +0000"
     },
     "done": true
   },
@@ -1905,15 +1905,15 @@
     },
     "done": true
   },
-  "appliedenergistics2:main/root": {
-    "criteria": {
-      "certus": "2025-04-27 01:25:30 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-04-27 01:25:30 +0000"
     },
     "done": true
   },
@@ -2546,15 +2546,15 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-04-26 23:25:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 23:25:23 +0000"
     },
     "done": true
   },
@@ -2882,15 +2882,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-26 22:34:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-26 22:34:38 +0000"
     },
     "done": true
   },
@@ -3032,12 +3032,6 @@
     },
     "done": true
   },
-  "tombstone:tutorial/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-04-27 00:07:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -3050,15 +3044,21 @@
     },
     "done": true
   },
-  "roots:pacifist": {
+  "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
-      "book": "2025-04-26 22:30:24 +0000"
+      "coded_trigger": "2025-04-27 00:07:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "roots:pacifist": {
+    "criteria": {
+      "book": "2025-04-26 22:30:24 +0000"
     },
     "done": true
   },
@@ -3819,15 +3819,15 @@
     },
     "done": true
   },
-  "ebwizardry:handbook/spells": {
-    "criteria": {
-      "criteria_0": "2025-04-27 00:52:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-04-27 00:52:10 +0000"
     },
     "done": true
   },
