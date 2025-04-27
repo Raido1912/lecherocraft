@@ -928,6 +928,7 @@
       "zombie_villager": "2025-04-26 23:16:20 +0000",
       "skeleton": "2025-04-26 23:41:56 +0000",
       "zombie": "2025-04-26 22:49:11 +0000",
+      "witch": "2025-04-27 00:22:29 +0000",
       "spider": "2025-04-26 23:40:59 +0000",
       "creeper": "2025-04-26 22:47:27 +0000"
     },
@@ -1359,6 +1360,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-27 00:20:20 +0000"
+    },
+    "done": true
+  },
   "bewitchment:root": {
     "criteria": {
       "tick": "2025-04-26 22:26:18 +0000"
@@ -1668,6 +1675,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_parasite": {
+    "criteria": {
+      "kill_parasite": "2025-04-27 00:16:01 +0000"
     },
     "done": true
   },
