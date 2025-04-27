@@ -1905,6 +1905,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-04-27 01:25:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
