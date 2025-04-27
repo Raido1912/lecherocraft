@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_wendigo": {
+    "criteria": {
+      "kill_wendigo": "2025-04-27 00:38:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -942,6 +948,7 @@
       "silverfish": "2025-04-26 22:17:12 +0000",
       "zombie": "2025-04-26 22:17:19 +0000",
       "witch": "2025-04-26 22:48:53 +0000",
+      "spider": "2025-04-27 00:35:35 +0000",
       "creeper": "2025-04-26 23:19:08 +0000"
     },
     "done": false

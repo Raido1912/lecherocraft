@@ -190,3 +190,4 @@
 2025-04-26 22:52:55,990 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! SCARCE chest at coords: -1080 63 824
 2025-04-26 23:50:34,783 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -1176 63 312
 2025-04-27 00:04:10,811 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -952 63 872
+2025-04-27 00:36:31,041 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: -1197 49 904
