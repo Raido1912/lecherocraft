@@ -1655,6 +1655,13 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "calc": "2025-04-27 01:50:31 +0000",
+      "eng": "2025-04-27 01:50:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
