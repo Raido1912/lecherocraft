@@ -1779,6 +1779,7 @@
       "taiga": "2025-04-26 21:46:05 +0000",
       "taiga_hills": "2025-04-26 21:46:08 +0000",
       "ocean": "2025-04-26 21:45:58 +0000",
+      "extreme_hills": "2025-04-27 01:09:36 +0000",
       "river": "2025-04-26 21:45:57 +0000",
       "stone_beach": "2025-04-26 21:46:00 +0000"
     },
@@ -2853,6 +2854,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "action": "2025-04-27 01:11:43 +0000"
     },
     "done": true
   },
