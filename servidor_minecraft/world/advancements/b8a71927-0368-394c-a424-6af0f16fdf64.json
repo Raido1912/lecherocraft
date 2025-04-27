@@ -899,6 +899,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-04-27 01:21:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3382,7 +3388,8 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
-      "magic_missile": "2025-04-27 00:49:07 +0000"
+      "magic_missile": "2025-04-27 00:49:07 +0000",
+      "smoke_bomb": "2025-04-27 01:22:50 +0000"
     },
     "done": false
   },
@@ -3784,6 +3791,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-27 01:15:42 +0000"
     },
     "done": true
   },
