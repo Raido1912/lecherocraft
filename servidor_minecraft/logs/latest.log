@@ -3877,3 +3877,10 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [21:27:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to kitsette
 [21:28:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
 [21:28:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[21:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kitsette has made the advancement [That's No Carrot...]
+[21:29:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for kitsette
+[21:31:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for totato
+[21:37:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> potato tas ganando?
+[21:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> si
+[21:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> y tu
+[21:38:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> ganando entre muchas comillas
