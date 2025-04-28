@@ -2010,6 +2010,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-28 22:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:25 +0000"
@@ -2480,7 +2486,8 @@
       "apple": "2025-04-26 22:09:50 +0000",
       "spider_eye": "2025-04-28 01:50:27 +0000",
       "potato": "2025-04-28 01:46:18 +0000",
-      "beetroot": "2025-04-26 22:11:18 +0000"
+      "beetroot": "2025-04-26 22:11:18 +0000",
+      "carrot": "2025-04-28 21:45:35 +0000"
     },
     "done": false
   },
@@ -2985,6 +2992,12 @@
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-28 21:44:32 +0000"
     },
     "done": true
   },
@@ -4063,6 +4076,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-28 21:58:45 +0000"
     },
     "done": true
   },
