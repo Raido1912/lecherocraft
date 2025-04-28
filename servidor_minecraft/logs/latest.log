@@ -4444,3 +4444,26 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [22:52:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Arwen-x3
 [22:58:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Arwen-x3 lost connection: Disconnected
 [22:58:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Arwen-x3 left the game
+[23:06:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
+[23:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
+[23:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:06:52] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[23:06:52] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: 075e19b5-ee87-36a3-9437-3acf23b3f13a
+[23:06:52] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: b8a71927-0368-394c-a424-6af0f16fdf64
+[23:06:52] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: cd121777-836d-3dba-b032-c216dade0fdd
+[23:06:52] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: 180de413-3350-372d-ab6a-d5151a27e3a9
+[23:06:52] [Server thread/INFO] [icbmclassic]: Stopping threads
+[23:06:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:06:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:06:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:06:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:06:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[23:06:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/midnight
+[23:06:52] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:06:52] [Server thread/INFO] [FML]: Unloading dimension 2
+[23:06:52] [Server thread/INFO] [FML]: Unloading dimension -23
+[23:06:52] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[23:06:52] [Server thread/INFO] [nuclearcraft]: Server Closing...
+[23:06:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:06:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:06:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
