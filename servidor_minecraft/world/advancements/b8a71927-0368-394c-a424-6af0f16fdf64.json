@@ -2853,6 +2853,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2025-04-28 00:43:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/ebony_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3769,6 +3775,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2025-04-28 00:45:04 +0000"
     },
     "done": true
   },

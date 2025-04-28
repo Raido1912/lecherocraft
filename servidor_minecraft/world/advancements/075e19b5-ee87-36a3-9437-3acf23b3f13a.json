@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-28 00:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-26 21:59:23 +0000"
@@ -1412,6 +1418,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:25 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-28 00:44:50 +0000"
     },
     "done": true
   },
@@ -3316,6 +3328,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-04-28 00:44:50 +0000"
     },
     "done": true
   },
