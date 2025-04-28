@@ -2775,6 +2775,12 @@
     },
     "done": true
   },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2025-04-28 22:32:03 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/ruby_key": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
