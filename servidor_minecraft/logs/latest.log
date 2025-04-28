@@ -4441,3 +4441,6 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [22:46:44] [Server thread/INFO] [Mekanism]: Sent config to 'Arwen-x3.'
 [22:46:44] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Arwen-x3...
 [22:46:44] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Arwen-x3
+[22:52:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Arwen-x3
+[22:58:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Arwen-x3 lost connection: Disconnected
+[22:58:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Arwen-x3 left the game
