@@ -4397,3 +4397,20 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [22:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> si?
 [22:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <kitsette> matame
 [22:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> oh no
+[22:19:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> :(
+[22:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> es tarde paps
+[22:20:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kitsette was slain by totato
+[22:20:01] [Server thread/INFO] [tombstone]: The last known grave of kitsette is at location [name:Last Grave, x:-541, y:66, z:612] in the dimension 0
+[22:20:01] [Server thread/INFO] [tombstone]: kitsette has successfully been saved
+[22:20:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to kitsette
+[22:20:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> perenme
+[22:20:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: totato lost connection: Disconnected
+[22:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: totato left the game
+[22:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Hot Stuff]
+[22:22:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[22:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kitsette was killed by magic
+[22:24:33] [Server thread/INFO] [tombstone]: The last known grave of kitsette is at location [name:Last Grave, x:-556, y:76, z:573] in the dimension 0
+[22:24:33] [Server thread/INFO] [tombstone]: kitsette has successfully been saved
+[22:24:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to kitsette
+[22:29:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kitsette has made the advancement [Purification in Progress]
+[22:29:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for kitsette

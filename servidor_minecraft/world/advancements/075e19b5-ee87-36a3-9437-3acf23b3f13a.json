@@ -3821,6 +3821,12 @@
     },
     "done": true
   },
+  "bewitchment:purification_in_progress": {
+    "criteria": {
+      "ghost": "2025-04-28 22:29:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/peridot_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
