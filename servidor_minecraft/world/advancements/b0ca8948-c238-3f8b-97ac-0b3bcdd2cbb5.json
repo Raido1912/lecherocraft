@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "blood_container": "2025-04-28 01:46:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-28 03:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -785,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-28 03:47:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -874,6 +892,12 @@
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
     },
     "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:18:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
@@ -1126,6 +1150,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-04-28 01:48:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/blue_dye_from_bluebells": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -1348,6 +1378,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_undertaker": {
+    "criteria": {
+      "kill_undertaker": "2025-04-28 01:02:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -1507,6 +1543,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_amethyst": {
+    "criteria": {
+      "hat": "2025-04-28 01:18:41 +0000"
     },
     "done": true
   },
@@ -1765,6 +1807,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-26 22:26:47 +0000",
+      "beaches": "2025-04-28 02:13:00 +0000",
       "forest_hills": "2025-04-26 22:26:17 +0000",
       "plains": "2025-04-26 22:26:35 +0000",
       "taiga": "2025-04-26 22:44:48 +0000",
@@ -1878,6 +1921,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-04-28 02:34:27 +0000"
     },
     "done": true
   },
@@ -2536,6 +2585,7 @@
       "baked_potato": "2025-04-26 23:48:25 +0000",
       "apple": "2025-04-26 23:19:26 +0000",
       "potato": "2025-04-26 22:36:25 +0000",
+      "bread": "2025-04-28 01:53:42 +0000",
       "carrot": "2025-04-26 22:34:38 +0000"
     },
     "done": false
@@ -2906,6 +2956,12 @@
     },
     "done": true
   },
+  "erebus:portal/root": {
+    "criteria": {
+      "diamond": "2025-04-28 01:12:14 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/wasteland_terrarium": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
@@ -3200,6 +3256,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-28 01:12:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-26 22:37:02 +0000"
@@ -3269,6 +3331,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-04-28 01:38:36 +0000"
     },
     "done": true
   },
@@ -3361,6 +3429,12 @@
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
     },
     "done": true
+  },
+  "atum:core/agriculture": {
+    "criteria": {
+      "melon_stem": "2025-04-28 02:34:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
@@ -3942,6 +4016,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_coquina": {
+    "criteria": {
+      "hat": "2025-04-28 02:14:02 +0000"
     },
     "done": true
   },

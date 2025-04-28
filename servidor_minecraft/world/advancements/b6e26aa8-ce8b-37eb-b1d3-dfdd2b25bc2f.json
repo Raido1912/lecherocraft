@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-28 01:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -218,6 +224,12 @@
   "biomesoplenty:recipes/buildingblocks/hellbark_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-04-28 01:59:23 +0000"
     },
     "done": true
   },
@@ -527,6 +539,12 @@
     },
     "done": true
   },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-04-28 01:25:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/ominous_terrarium": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -671,6 +689,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-28 03:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -740,6 +764,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-28 01:00:43 +0000"
     },
     "done": true
   },
@@ -827,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-28 01:05:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -838,6 +874,12 @@
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
     },
     "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:59:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
@@ -886,6 +928,14 @@
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2025-04-28 01:05:03 +0000",
+      "zombie": "2025-04-28 01:05:20 +0000",
+      "spider": "2025-04-28 01:23:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -980,6 +1030,12 @@
   "biomesoplenty:recipes/food/shroom_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "charm_minion_health": "2025-04-28 01:35:38 +0000"
     },
     "done": true
   },
@@ -1187,6 +1243,24 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:35:13 +0000"
+    },
+    "done": true
+  },
+  "roots:all_the_herbs_3": {
+    "criteria": {
+      "wildroot": "2025-04-28 01:44:03 +0000"
+    },
+    "done": false
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-04-28 01:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1379,6 +1453,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-28 03:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1430,6 +1510,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:34:58 +0000"
     },
     "done": true
   },
@@ -1487,6 +1573,12 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1504,6 +1596,18 @@
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
     },
     "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-28 01:58:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-04-28 01:31:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
@@ -1589,6 +1693,18 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_parasite": {
+    "criteria": {
+      "kill_parasite": "2025-04-28 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2025-04-28 01:05:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1610,6 +1726,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-28 01:49:57 +0000"
     },
     "done": true
   },
@@ -1639,7 +1761,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest_hills": "2025-04-28 00:44:14 +0000"
+      "forest": "2025-04-28 00:48:24 +0000",
+      "beaches": "2025-04-28 01:26:59 +0000",
+      "extreme_hills_with_trees": "2025-04-28 02:18:38 +0000",
+      "forest_hills": "2025-04-28 00:44:14 +0000",
+      "plains": "2025-04-28 00:48:20 +0000",
+      "taiga": "2025-04-28 00:55:59 +0000",
+      "taiga_hills": "2025-04-28 01:04:57 +0000",
+      "ocean": "2025-04-28 01:55:09 +0000",
+      "extreme_hills": "2025-04-28 01:53:18 +0000",
+      "river": "2025-04-28 01:22:06 +0000",
+      "stone_beach": "2025-04-28 01:55:02 +0000"
     },
     "done": false
   },
@@ -1688,6 +1820,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_scarecrow": {
+    "criteria": {
+      "kill_scarecrow": "2025-04-28 03:11:11 +0000"
     },
     "done": true
   },
@@ -1748,6 +1886,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-28 00:54:41 +0000"
     },
     "done": true
   },
@@ -2375,6 +2519,20 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-28 01:24:48 +0000",
+      "cooked_mutton": "2025-04-28 01:26:40 +0000",
+      "cooked_beef": "2025-04-28 01:27:16 +0000",
+      "baked_potato": "2025-04-28 01:14:24 +0000",
+      "apple": "2025-04-28 00:53:29 +0000",
+      "potato": "2025-04-28 02:13:18 +0000",
+      "cooked_cod": "2025-04-28 01:22:32 +0000",
+      "beetroot": "2025-04-28 01:37:30 +0000",
+      "carrot": "2025-04-28 00:55:15 +0000"
+    },
+    "done": false
+  },
   "treasure2:recipes/sapphire_key": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -2384,6 +2542,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-28 01:49:35 +0000"
     },
     "done": true
   },
@@ -2438,6 +2602,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2025-04-28 01:57:02 +0000"
     },
     "done": true
   },
@@ -2615,6 +2785,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-28 01:03:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/mahogany_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -2693,6 +2869,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-28 03:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -2708,6 +2890,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-28 00:53:29 +0000"
     },
     "done": true
   },
@@ -2740,6 +2928,12 @@
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
     },
     "done": true
+  },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "charm_minion_health": "2025-04-28 01:35:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
@@ -2861,9 +3055,21 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-28 01:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "roots:pacifist": {
+    "criteria": {
+      "book": "2025-04-28 02:59:26 +0000"
     },
     "done": true
   },
@@ -2945,6 +3151,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-28 01:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -2981,6 +3193,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -2990,6 +3208,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-28 02:33:17 +0000"
     },
     "done": true
   },
@@ -3101,6 +3325,12 @@
     },
     "done": true
   },
+  "roots:wildroot": {
+    "criteria": {
+      "book": "2025-04-28 01:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3206,6 +3436,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-04-28 03:17:14 +0000"
     },
     "done": true
   },
@@ -3353,6 +3589,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3401,6 +3643,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2025-04-28 01:57:17 +0000",
+      "red_flower": "2025-04-28 01:57:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3416,6 +3665,12 @@
   "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-28 00:56:20 +0000"
     },
     "done": true
   },
@@ -3587,6 +3842,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3719,6 +3980,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-04-28 01:43:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3728,6 +3995,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "ice_wraith": "2025-04-28 01:35:02 +0000"
     },
     "done": true
   },
@@ -3878,6 +4151,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-28 01:56:50 +0000"
     },
     "done": true
   },

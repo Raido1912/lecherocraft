@@ -6,6 +6,7 @@ mysticalworld:entity_silkworm=3
 mod_lavacow:mimic=10
 bewitchment:snake=3
 twilightforest:winter_wolf=3
+twilightforest:hostile_wolf=3
 mod_lavacow:scarecrow=15
 mod_lavacow:zombiefrozen=15
 quark:crab=4

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "blood_container": "2025-04-28 02:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -906,6 +912,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:24:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1068,6 +1080,12 @@
     },
     "done": true
   },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2025-04-28 01:39:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/amber": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1113,6 +1131,12 @@
   "biomesoplenty:recipes/misc/red_dye_from_rose": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:24:16 +0000"
     },
     "done": true
   },
@@ -1176,6 +1200,12 @@
     },
     "done": true
   },
+  "nuclearcraft:food/smore": {
+    "criteria": {
+      "has_item": "2025-04-28 02:11:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1188,9 +1218,21 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_banshee": {
+    "criteria": {
+      "kill_banshee": "2025-04-28 03:03:14 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/skull_chest": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-04-28 02:11:55 +0000"
     },
     "done": true
   },
@@ -1608,6 +1650,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "flower": "2025-04-28 01:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1714,6 +1762,12 @@
   "twilightforest:alt/biomes/mushroom_forest": {
     "criteria": {
       "discover": "2025-04-27 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2025-04-28 01:36:31 +0000"
     },
     "done": true
   },
@@ -2345,6 +2399,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_garnet": {
+    "criteria": {
+      "hat": "2025-04-28 02:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -2736,6 +2796,12 @@
   "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-04-28 02:39:04 +0000"
     },
     "done": true
   },
@@ -3480,6 +3546,7 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "snowball": "2025-04-28 01:26:28 +0000",
       "magic_missile": "2025-04-27 00:49:07 +0000",
       "smoke_bomb": "2025-04-27 01:22:50 +0000"
     },
@@ -3494,6 +3561,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "necromancy": "2025-04-28 01:35:39 +0000"
     },
     "done": true
   },
@@ -4042,6 +4115,12 @@
     },
     "done": true
   },
+  "bewitchment:purification_in_progress": {
+    "criteria": {
+      "ghost": "2025-04-28 01:49:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/peridot_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -4117,6 +4196,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_coquina": {
+    "criteria": {
+      "hat": "2025-04-28 01:31:54 +0000"
     },
     "done": true
   },
