@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-29 03:21:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -695,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-29 02:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -776,6 +788,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-29 02:23:37 +0000"
     },
     "done": true
   },
@@ -1369,6 +1387,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-29 02:24:00 +0000"
+    },
+    "done": true
+  },
   "bewitchment:root": {
     "criteria": {
       "tick": "2025-04-28 00:44:14 +0000"
@@ -1597,21 +1621,28 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "faction": "2025-04-29 02:48:10 +0000",
+      "kill": "2025-04-28 01:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-28 01:58:17 +0000"
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-04-28 01:31:44 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2025-04-29 02:48:10 +0000"
     },
     "done": true
   },
@@ -1762,11 +1793,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-28 00:48:24 +0000",
+      "deep_ocean": "2025-04-29 02:36:55 +0000",
       "beaches": "2025-04-28 01:26:59 +0000",
       "extreme_hills_with_trees": "2025-04-28 02:18:38 +0000",
       "forest_hills": "2025-04-28 00:44:14 +0000",
       "plains": "2025-04-28 00:48:20 +0000",
       "taiga": "2025-04-28 00:55:59 +0000",
+      "redwood_taiga": "2025-04-29 02:19:52 +0000",
       "taiga_hills": "2025-04-28 01:04:57 +0000",
       "ocean": "2025-04-28 01:55:09 +0000",
       "extreme_hills": "2025-04-28 01:53:18 +0000",
@@ -2054,6 +2087,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 02:41:13 +0000"
     },
     "done": true
   },
@@ -2528,6 +2567,8 @@
       "apple": "2025-04-28 00:53:29 +0000",
       "potato": "2025-04-28 02:13:18 +0000",
       "cooked_cod": "2025-04-28 01:22:32 +0000",
+      "pumpkin_pie": "2025-04-29 02:48:57 +0000",
+      "rotten_flesh": "2025-04-29 03:13:10 +0000",
       "beetroot": "2025-04-28 01:37:30 +0000",
       "carrot": "2025-04-28 00:55:15 +0000"
     },
@@ -3433,6 +3474,12 @@
     },
     "done": true
   },
+  "midnight:midnight/surface_biomes": {
+    "criteria": {
+      "biome3": "2025-04-29 03:38:16 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3653,6 +3700,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "midnight:midnight/root": {
+    "criteria": {
+      "enter_midnight": "2025-04-29 03:38:15 +0000"
     },
     "done": true
   },
@@ -4007,6 +4060,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 02:23:42 +0000"
     },
     "done": true
   },

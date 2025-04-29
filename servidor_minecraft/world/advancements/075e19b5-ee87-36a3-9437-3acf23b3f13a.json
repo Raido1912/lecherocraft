@@ -1117,6 +1117,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-29 04:29:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
@@ -1354,6 +1360,12 @@
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 01:33:42 +0000"
     },
     "done": true
   },
@@ -1875,6 +1887,12 @@
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-04-29 03:32:45 +0000"
     },
     "done": true
   },
@@ -3580,6 +3598,12 @@
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
     },
     "done": true
+  },
+  "roots:renewable_renaissance": {
+    "criteria": {
+      "wildroot": "2025-04-29 01:43:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {

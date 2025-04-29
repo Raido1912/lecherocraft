@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "fa181dd5-02bf-35d4-8d79-86a18889c63b",
+    "name": "Takuda",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "b8a71927-0368-394c-a424-6af0f16fdf64",
     "name": "moltgames",
     "level": 4,

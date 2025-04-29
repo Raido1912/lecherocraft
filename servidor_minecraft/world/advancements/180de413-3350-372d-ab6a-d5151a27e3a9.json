@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-28 23:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -914,6 +920,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-04-28 21:55:29 +0000",
+      "zombie": "2025-04-29 02:43:06 +0000",
       "spider": "2025-04-28 21:48:36 +0000"
     },
     "done": false
@@ -1302,6 +1309,12 @@
     },
     "done": true
   },
+  "nuclearcraft:fission/decay_generator": {
+    "criteria": {
+      "has_item": "2025-04-29 02:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -1560,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-29 00:27:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -1707,9 +1726,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-28 00:49:13 +0000",
+      "extreme_hills_with_trees": "2025-04-29 03:10:44 +0000",
       "forest_hills": "2025-04-28 00:48:11 +0000",
       "plains": "2025-04-28 00:48:52 +0000",
       "taiga": "2025-04-28 22:07:05 +0000",
+      "extreme_hills": "2025-04-29 03:09:27 +0000",
       "river": "2025-04-28 22:03:48 +0000"
     },
     "done": false
@@ -2460,8 +2481,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-29 03:42:34 +0000",
       "cooked_mutton": "2025-04-28 00:54:33 +0000",
       "baked_potato": "2025-04-28 01:06:51 +0000",
+      "potato": "2025-04-29 04:44:43 +0000",
       "carrot": "2025-04-28 00:55:45 +0000"
     },
     "done": false
@@ -3571,6 +3594,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-29 00:43:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -3736,6 +3765,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-04-29 02:41:13 +0000"
     },
     "done": true
   },
@@ -4030,6 +4065,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-29 00:26:15 +0000"
     },
     "done": true
   },

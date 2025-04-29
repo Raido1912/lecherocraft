@@ -540,6 +540,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2025-04-29 03:37:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -624,6 +630,12 @@
     },
     "done": true
   },
+  "tfspellpack:all_twilight_spells": {
+    "criteria": {
+      "mist_cloak": "2025-04-29 03:37:42 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -675,6 +687,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 00:22:19 +0000"
     },
     "done": true
   },
@@ -938,9 +956,10 @@
   },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
+      "criteria_1": "2025-04-29 03:36:15 +0000",
       "criteria_0": "2025-04-27 01:21:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
@@ -1356,6 +1375,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-04-29 00:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1428,6 +1453,12 @@
     },
     "done": true
   },
+  "nuclearcraft:fission/decay_generator": {
+    "criteria": {
+      "has_item": "2025-04-29 02:52:30 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/obelisks": {
     "criteria": {
       "criteria_0": "2025-04-26 23:55:05 +0000"
@@ -1445,6 +1476,12 @@
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2025-04-29 00:53:05 +0000"
+    },
+    "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -1837,6 +1874,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 03:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "skeleton": "2025-04-26 21:58:06 +0000"
@@ -1864,6 +1907,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-29 00:28:19 +0000"
     },
     "done": true
   },
@@ -1896,6 +1945,7 @@
       "forest": "2025-04-26 21:44:49 +0000",
       "deep_ocean": "2025-04-26 21:45:43 +0000",
       "beaches": "2025-04-26 21:45:17 +0000",
+      "extreme_hills_with_trees": "2025-04-29 03:30:13 +0000",
       "forest_hills": "2025-04-26 21:46:25 +0000",
       "plains": "2025-04-26 21:51:43 +0000",
       "taiga": "2025-04-26 21:46:05 +0000",
@@ -1952,6 +2002,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_scarecrow": {
+    "criteria": {
+      "kill_scarecrow": "2025-04-29 01:28:22 +0000"
     },
     "done": true
   },
@@ -3063,6 +3119,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 00:22:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3102,9 +3164,10 @@
   "erebus:portal/root": {
     "criteria": {
       "diamond": "2025-04-27 00:04:35 +0000",
-      "obsidian": "2025-04-27 00:16:58 +0000"
+      "obsidian": "2025-04-27 00:16:58 +0000",
+      "emerald": "2025-04-29 00:53:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/decorations/wasteland_terrarium": {
     "criteria": {
@@ -3244,6 +3307,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 00:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3289,6 +3358,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-29 00:53:04 +0000"
     },
     "done": true
   },
@@ -3559,6 +3634,8 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "snowball": "2025-04-28 01:26:28 +0000",
+      "charge": "2025-04-29 03:39:30 +0000",
+      "lightning_ray": "2025-04-29 03:39:03 +0000",
       "magic_missile": "2025-04-27 00:49:07 +0000",
       "smoke_bomb": "2025-04-27 01:22:50 +0000"
     },
@@ -3857,6 +3934,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2025-04-29 01:03:01 +0000",
+      "red_flower": "2025-04-29 01:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3968,6 +4052,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "tfspellpack:twilight_spell": {
+    "criteria": {
+      "mist_cloak": "2025-04-29 03:37:42 +0000"
     },
     "done": true
   },
@@ -4208,6 +4298,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:identify_spell": {
+    "criteria": {
+      "criteria_0": "2025-04-29 01:01:38 +0000"
     },
     "done": true
   },
