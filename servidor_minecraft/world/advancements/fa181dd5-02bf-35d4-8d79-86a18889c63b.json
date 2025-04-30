@@ -940,7 +940,8 @@
       "skeleton": "2025-04-29 02:15:58 +0000",
       "zombie": "2025-04-26 23:31:29 +0000",
       "witch": "2025-04-29 01:52:20 +0000",
-      "spider": "2025-04-26 23:36:33 +0000"
+      "spider": "2025-04-26 23:36:33 +0000",
+      "creeper": "2025-04-30 03:19:21 +0000"
     },
     "done": false
   },
@@ -1364,6 +1365,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_undertaker": {
+    "criteria": {
+      "kill_undertaker": "2025-04-30 03:19:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -1415,6 +1422,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/get_hatred_shard": {
+    "criteria": {
+      "get_hatred_shard": "2025-04-30 03:19:49 +0000"
     },
     "done": true
   },
@@ -1505,6 +1518,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_undeadswine": {
+    "criteria": {
+      "kill_undeadswine": "2025-04-30 03:19:01 +0000"
     },
     "done": true
   },
@@ -2519,6 +2538,7 @@
       "cooked_beef": "2025-04-26 23:41:41 +0000",
       "baked_potato": "2025-04-29 01:56:08 +0000",
       "apple": "2025-04-26 23:33:51 +0000",
+      "potato": "2025-04-30 03:23:53 +0000",
       "rotten_flesh": "2025-04-30 03:14:28 +0000",
       "golden_carrot": "2025-04-26 23:23:18 +0000",
       "cooked_chicken": "2025-04-26 23:41:46 +0000"
