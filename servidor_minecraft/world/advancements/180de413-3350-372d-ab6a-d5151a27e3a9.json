@@ -3693,6 +3693,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-30 03:58:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/coal_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
