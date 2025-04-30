@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_dead_wood_log": {
+    "criteria": {
+      "requirement_1": "2025-04-30 02:29:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/ethereal_door": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -1249,6 +1255,12 @@
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
     },
     "done": true
+  },
+  "roots:all_the_herbs_3": {
+    "criteria": {
+      "wildroot": "2025-04-30 02:17:21 +0000"
+    },
+    "done": false
   },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
@@ -3220,6 +3232,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-04-30 02:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -3265,6 +3283,12 @@
   "biomesoplenty:recipes/buildingblocks/white_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "roots:wildroot": {
+    "criteria": {
+      "book": "2025-04-30 02:17:21 +0000"
     },
     "done": true
   },
@@ -3375,6 +3399,18 @@
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
     },
     "done": true
+  },
+  "midnight:midnight/surface_biomes": {
+    "criteria": {
+      "biome7": "2025-04-30 02:28:54 +0000",
+      "biome5": "2025-04-30 02:34:07 +0000",
+      "biome2": "2025-04-30 02:32:56 +0000",
+      "biome3": "2025-04-30 02:30:42 +0000",
+      "biome1": "2025-04-30 02:30:17 +0000",
+      "biome8": "2025-04-30 02:28:38 +0000",
+      "biome9": "2025-04-30 02:28:51 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
@@ -3590,6 +3626,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "midnight:midnight/root": {
+    "criteria": {
+      "enter_midnight": "2025-04-30 02:28:38 +0000"
     },
     "done": true
   },
@@ -4025,6 +4067,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_silver": {
+    "criteria": {
+      "hat": "2025-04-30 02:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -4082,6 +4130,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-30 02:19:31 +0000"
     },
     "done": true
   },

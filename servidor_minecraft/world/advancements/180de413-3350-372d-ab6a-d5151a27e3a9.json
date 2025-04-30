@@ -1726,10 +1726,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-28 00:49:13 +0000",
+      "beaches": "2025-04-30 02:43:52 +0000",
       "extreme_hills_with_trees": "2025-04-29 03:10:44 +0000",
       "forest_hills": "2025-04-28 00:48:11 +0000",
       "plains": "2025-04-28 00:48:52 +0000",
       "taiga": "2025-04-28 22:07:05 +0000",
+      "taiga_hills": "2025-04-30 02:43:19 +0000",
       "extreme_hills": "2025-04-29 03:09:27 +0000",
       "river": "2025-04-28 22:03:48 +0000"
     },
@@ -3512,6 +3514,12 @@
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-04-30 02:44:05 +0000"
     },
     "done": true
   },
