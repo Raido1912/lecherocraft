@@ -3580,6 +3580,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2025-04-30 02:09:06 +0000",
+      "red_flower": "2025-04-30 02:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
