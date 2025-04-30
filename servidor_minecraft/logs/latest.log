@@ -3946,3 +3946,4 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [12:35:17] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Rukasu2903...
 [12:35:17] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Rukasu2903
 [12:35:17] [ForkJoinPool-1-worker-3/INFO] [opencomputers]: Running the latest OpenComputers version.
+[13:03:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rukasu2903: Set the time to 1000]
