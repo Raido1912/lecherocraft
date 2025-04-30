@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2025-04-30 01:58:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -1845,6 +1851,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-04-30 02:01:36 +0000"
     },
     "done": true
   },
@@ -3286,6 +3298,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "charge": "2025-04-30 01:58:42 +0000"
+    },
+    "done": false
+  },
   "treasure2:recipes/pilferers_lock_pick": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -3679,6 +3697,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-04-30 01:58:42 +0000"
     },
     "done": true
   },
