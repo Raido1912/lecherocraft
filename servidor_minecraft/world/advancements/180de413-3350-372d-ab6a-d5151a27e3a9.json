@@ -1663,6 +1663,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_parasite": {
+    "criteria": {
+      "kill_parasite": "2025-04-30 03:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "spider": "2025-04-28 21:48:36 +0000"

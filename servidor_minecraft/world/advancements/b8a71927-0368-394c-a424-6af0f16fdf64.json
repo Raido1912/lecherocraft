@@ -3559,6 +3559,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-04-30 02:45:05 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/crystal_skull_chest": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
