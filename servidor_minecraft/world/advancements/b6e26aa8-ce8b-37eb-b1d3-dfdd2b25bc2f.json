@@ -975,6 +975,7 @@
     "criteria": {
       "skeleton": "2025-04-28 01:05:03 +0000",
       "zombie": "2025-04-28 01:05:20 +0000",
+      "witch": "2025-05-01 22:34:30 +0000",
       "spider": "2025-04-28 01:23:06 +0000",
       "creeper": "2025-05-01 21:03:38 +0000"
     },
@@ -1385,6 +1386,12 @@
   "biomesoplenty:recipes/buildingblocks/ethereal_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-05-01 21:57:13 +0000"
     },
     "done": true
   },
@@ -2660,8 +2667,10 @@
       "cooked_cod": "2025-04-28 01:22:32 +0000",
       "melon": "2025-05-01 21:15:01 +0000",
       "pumpkin_pie": "2025-04-29 02:48:57 +0000",
+      "mutton": "2025-05-01 22:00:57 +0000",
       "bread": "2025-05-01 01:42:30 +0000",
       "rotten_flesh": "2025-04-29 03:13:10 +0000",
+      "cookie": "2025-05-01 21:56:52 +0000",
       "beetroot": "2025-04-28 01:37:30 +0000",
       "carrot": "2025-04-28 00:55:15 +0000"
     },
@@ -3442,6 +3451,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-05-01 22:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3919,6 +3934,12 @@
     },
     "done": true
   },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-05-01 21:59:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3988,6 +4009,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_remnant": {
+    "criteria": {
+      "necromancy": "2025-05-01 22:27:26 +0000"
     },
     "done": true
   },

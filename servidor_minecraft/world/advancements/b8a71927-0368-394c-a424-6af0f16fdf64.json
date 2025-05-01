@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "theaurorian:root": {
+    "criteria": {
+      "arrivedintheaurorian": "2025-05-01 22:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1120,6 +1126,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-05-01 22:43:01 +0000"
     },
     "done": true
   },
@@ -2342,6 +2354,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-01 23:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -2761,6 +2779,12 @@
   "biomesoplenty:recipes/buildingblocks/fir_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-05-01 21:54:35 +0000"
     },
     "done": true
   },
@@ -3500,6 +3524,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_wraith": {
+    "criteria": {
+      "kill_wraith": "2025-05-01 22:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3613,6 +3643,12 @@
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
     },
     "done": true
+  },
+  "erebus:portal/portal_activator": {
+    "criteria": {
+      "get_activator": "2025-05-01 22:46:49 +0000"
+    },
+    "done": false
   },
   "ebwizardry:handbook/crystal_flowers": {
     "criteria": {

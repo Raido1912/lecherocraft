@@ -950,6 +950,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-01 23:14:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/willow_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -2035,6 +2041,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 23:15:53 +0000"
     },
     "done": true
   },
@@ -3408,6 +3420,13 @@
     },
     "done": true
   },
+  "midnight:midnight/surface_biomes": {
+    "criteria": {
+      "biome8": "2025-05-01 23:52:39 +0000",
+      "biome9": "2025-05-01 23:52:57 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -3634,6 +3653,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "midnight:midnight/root": {
+    "criteria": {
+      "enter_midnight": "2025-05-01 23:52:38 +0000"
     },
     "done": true
   },
