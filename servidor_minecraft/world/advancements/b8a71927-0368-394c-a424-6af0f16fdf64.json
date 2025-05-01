@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2025-05-01 20:58:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
