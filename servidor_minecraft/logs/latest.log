@@ -5155,3 +5155,25 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [19:52:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
 [19:53:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [You'll Regret That]
 [19:53:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[20:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins was killed by Wizard using magic
+[20:01:22] [Server thread/INFO] [tombstone]: The last known grave of Oasins is at location [name:Last Grave, x:-1246, y:68, z:271] in the dimension 0
+[20:01:22] [Server thread/INFO] [tombstone]: Oasins has successfully been saved
+[20:01:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Oasins
+[20:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> o.o
+[20:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [A Forgotten Relic]
+[20:01:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[20:02:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins was killed by Wizard using magic
+[20:02:09] [Server thread/INFO] [tombstone]: The last known grave of Oasins is at location [name:Last Grave, x:-1243, y:69, z:283] in the dimension 0
+[20:02:09] [Server thread/INFO] [tombstone]: Oasins has successfully been saved
+[20:02:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Oasins
+[20:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Oasins> OVEJAS
+[20:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> zzz
+[20:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> z
+[20:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> z
+[20:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> z
+[20:04:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> z
+[20:04:29] [Server thread/INFO] [morpheus]: totato is now sleeping. 1/4 (25%)
+[20:04:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Oasins> zzzzzzzzz
+[20:04:34] [Server thread/INFO] [morpheus]: Oasins is now sleeping. 2/4 (50%)
+[20:04:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Oasins moved wrongly!
+[20:04:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: totato moved wrongly!
