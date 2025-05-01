@@ -5138,3 +5138,20 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [19:36:16] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for totato...
 [19:36:16] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to totato
 [19:36:19] [Server thread/INFO] [morpheus]: Oasins has left their bed. 0/4 (0%)
+[19:38:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> zz
+[19:38:15] [Server thread/INFO] [morpheus]: totato is now sleeping. 1/4 (25%)
+[19:38:23] [Server thread/INFO] [morpheus]: Oasins is now sleeping. 2/4 (50%)
+[19:38:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: totato moved wrongly!
+[19:38:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Oasins moved wrongly!
+[19:49:03] [Server thread/INFO] [morpheus]: Alpha_235 is now sleeping. 1/4 (25%)
+[19:49:21] [Server thread/INFO] [morpheus]: Oasins is now sleeping. 2/4 (50%)
+[19:49:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: totato moved wrongly!
+[19:49:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Alpha_235 moved wrongly!
+[19:50:12] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@6a0e850)
+[19:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [I Think My Books Are Overdue]
+[19:51:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[19:51:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <totato> huh
+[19:52:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [Who Lives Here?]
+[19:52:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
+[19:53:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Oasins has made the advancement [You'll Regret That]
+[19:53:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Oasins
