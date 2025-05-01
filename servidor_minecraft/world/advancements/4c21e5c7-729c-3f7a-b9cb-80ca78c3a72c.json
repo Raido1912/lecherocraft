@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-01 02:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 02:20:21 +0000"
@@ -515,6 +521,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-05-01 02:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-01 02:45:12 +0000"
     },
     "done": true
   },
