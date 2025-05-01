@@ -2306,6 +2306,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_garnet": {
+    "criteria": {
+      "hat": "2025-05-01 00:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"

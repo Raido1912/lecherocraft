@@ -1250,6 +1250,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-05-01 00:33:10 +0000"
+    },
+    "done": true
+  },
   "roots:all_the_herbs_3": {
     "criteria": {
       "wildroot": "2025-04-26 22:10:12 +0000"
@@ -1526,6 +1532,12 @@
     },
     "done": true
   },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2025-05-01 00:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:25 +0000"
@@ -1577,6 +1589,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:25 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-05-01 00:33:10 +0000"
     },
     "done": true
   },
@@ -3866,6 +3884,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-05-01 00:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:25 +0000"
@@ -4019,6 +4043,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "lightning_wraith": "2025-05-01 00:33:02 +0000"
     },
     "done": true
   },
