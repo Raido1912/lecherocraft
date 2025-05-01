@@ -1189,3 +1189,4 @@
 2025-05-01 20:19:08,725 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: -268 68 -296
 2025-05-01 20:19:09,275 [Server thread] INFO Treasure2 | WitherTreeWorldGenerator.java:354 | CHEATER! wither chest at coords: -152 72 -232
 2025-05-01 20:19:09,640 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: -280 84 -360
+2025-05-01 21:14:22,546 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! LEGENDARY chest at coords: 232 63 1640

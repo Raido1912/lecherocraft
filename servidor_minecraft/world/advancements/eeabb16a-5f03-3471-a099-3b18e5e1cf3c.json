@@ -1501,6 +1501,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_amethyst": {
+    "criteria": {
+      "hat": "2025-05-01 21:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -2194,6 +2200,12 @@
     },
     "done": true
   },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2025-05-01 21:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -2575,6 +2587,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2025-05-01 21:17:42 +0000"
     },
     "done": true
   },
@@ -3154,6 +3172,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-05-01 20:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -3321,6 +3345,12 @@
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
     },
     "done": true
+  },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "arc": "2025-05-01 21:09:13 +0000"
+    },
+    "done": false
   },
   "treasure2:recipes/pilferers_lock_pick": {
     "criteria": {
@@ -3744,6 +3774,12 @@
     },
     "done": true
   },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-05-01 21:09:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/hellbark_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
@@ -3951,6 +3987,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:42:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-05-01 21:07:17 +0000"
     },
     "done": true
   },
