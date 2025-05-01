@@ -6524,3 +6524,514 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [01:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> O Gabriel
 [01:32:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> now dawns thy reckoning
 [01:32:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> and thy gore shall GLISTEN before the temples of Man!
+[01:32:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> Creature of Steel,
+[01:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> my gratitude upon thee for my freedom.
+[01:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> But the crimes thy kind have commited against humanity are NOT forgotten!
+[01:33:12] [Server thread/WARN] [FML]: Quark loaded a new chunk [2, 76] in dimension 0 (overworld) while populating chunk [2, 77], causing cascading worldgen lag.
+[01:33:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:12] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [2, 74] in dimension 0 (overworld) while populating chunk [2, 75], causing cascading worldgen lag.
+[01:33:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:12] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [1, 74] in dimension 0 (overworld) while populating chunk [2, 75], causing cascading worldgen lag.
+[01:33:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> And thy punishment... is DEATH.
+[01:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to Takuda]
+[01:33:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> judgement
+[01:33:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Takuda was killed by moltgames using magic
+[01:33:24] [Server thread/INFO] [tombstone]: The last known grave of Takuda is at location [name:Last Grave, x:-562, y:74, z:661] in the dimension 0
+[01:33:24] [Server thread/INFO] [tombstone]: Takuda has successfully been saved
+[01:33:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Takuda
+[01:33:28] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, 88] in dimension 0 (overworld) while populating chunk [-1, 88], causing cascading worldgen lag.
+[01:33:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:28] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, 87] in dimension 0 (overworld) while populating chunk [-1, 88], causing cascading worldgen lag.
+[01:33:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:30] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, 94] in dimension 0 (overworld) while populating chunk [-2, 94], causing cascading worldgen lag.
+[01:33:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:30] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, 93] in dimension 0 (overworld) while populating chunk [-2, 94], causing cascading worldgen lag.
+[01:33:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Takuda: Teleported Takuda to totato]
+[01:33:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, 86] in dimension 0 (overworld) while populating chunk [-3, 87], causing cascading worldgen lag.
+[01:33:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:38] [Server thread/WARN] [FML]: Vampirism loaded a new chunk [-3, 83] in dimension 0 (overworld) while populating chunk [-3, 84], causing cascading worldgen lag.
+[01:33:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:33:40] [Server thread/WARN] [FML]: Quark loaded a new chunk [6, 97] in dimension 0 (overworld) while populating chunk [7, 97], causing cascading worldgen lag.
+[01:33:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:34:07] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[01:34:07] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@642ebff9)
+[01:34:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to moltgames
+[01:34:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[01:34:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [We Need to Go Deeper]
+[01:34:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[01:34:11] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for moltgames
+[01:34:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4347ms behind, skipping 86 tick(s)
+[01:34:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Alpha_235 moved too quickly! -8.582030431424826,-3.789360634624174,-3.6268339235277836
+[01:34:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: moltgames moved too quickly! 891.8853602898814,-6.0,-578.5806776834849
+[01:34:43] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [-12, 100] in dimension 0 (overworld) while populating chunk [-11, 100], causing cascading worldgen lag.
+[01:34:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:34:43] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [-12, 99] in dimension 0 (overworld) while populating chunk [-11, 100], causing cascading worldgen lag.
+[01:34:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:34:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> finalmente sulfuro en mineral
+[01:35:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> ya puedo trabajar
+[01:36:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Your Cruel Device]
+[01:36:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[01:36:35] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.Fishmod.mod_LavaCow.entities.flying.EntityGhostRay from class com.Fishmod.mod_LavaCow.entities.EntityLavaCow
+[01:37:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [-21, 93] in dimension 0 (overworld) while populating chunk [-20, 92], causing cascading worldgen lag.
+[01:37:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:37:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [-21, 100] in dimension 0 (overworld) while populating chunk [-20, 101], causing cascading worldgen lag.
+[01:37:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:37:08] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [-21, 99] in dimension 0 (overworld) while populating chunk [-21, 100], causing cascading worldgen lag.
+[01:37:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:37:08] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [-22, 100] in dimension 0 (overworld) while populating chunk [-21, 100], causing cascading worldgen lag.
+[01:37:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:37:08] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [-22, 99] in dimension 0 (overworld) while populating chunk [-21, 100], causing cascading worldgen lag.
+[01:37:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wizard's Zombie was slain by Alpha_235
+[01:38:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wizard's Zombie was slain by Alpha_235
+[01:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alpha_235 has made the advancement [It's not time to tan]
+[01:39:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Alpha_235
+[01:40:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [-5, 113] in dimension 0 (overworld) while populating chunk [-4, 112], causing cascading worldgen lag.
+[01:40:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:40:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [-4, 113] in dimension 0 (overworld) while populating chunk [-4, 112], causing cascading worldgen lag.
+[01:40:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:43:19] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:43:24] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:43:28] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:43:30] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:44:06] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:44:07] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:44:09] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:44:10] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:44:14] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:44:15] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.sendToTracking(BridgeTracker.java:51) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.BridgeTracker.update(BridgeTracker.java:27) [BridgeTracker.class:?]
+	at com.mushroom.midnight.common.entity.RiftBridge.tickState(RiftBridge.java:66) [RiftBridge.class:?]
+	at com.mushroom.midnight.common.world.BridgeManagerServer.update(BridgeManagerServer.java:46) [BridgeManagerServer.class:?]
+	at com.mushroom.midnight.common.CommonEventHandler.onWorldTick(CommonEventHandler.java:129) [CommonEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_737_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1408) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.capacity(UnpooledHeapByteBuf.java:114) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.setBytes(UnpooledHeapByteBuf.java:254) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1069) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1060) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1050) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.network.PacketBuffer.writeBytes(PacketBuffer.java:1094) ~[gy.class:?]
+	at com.mushroom.midnight.common.network.MessageBridgeState.toBytes(MessageBridgeState.java:35) ~[MessageBridgeState.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26) ~[SimpleIndexedCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:81) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88) ~[minecraft_server.1.12.2.jar:?]
+	... 23 more
+[01:44:23] [Server thread/INFO] [morpheus]: totato is now sleeping. 1/4 (25%)
+[01:44:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Takuda> tz
+[01:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Takuda> z
+[01:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Takuda> z
+[01:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Takuda> z
+[01:44:33] [Server thread/INFO] [morpheus]: Takuda is now sleeping. 2/4 (50%)
+[01:44:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Takuda moved wrongly!
+[01:44:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: totato moved wrongly!
+[01:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Takuda: Teleported Takuda to Alpha_235]
+[01:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Takuda fell from a high place
+[01:45:14] [Server thread/INFO] [tombstone]: The last known grave of Takuda is at location [name:Last Grave, x:-306, y:102, z:367] in the dimension 0
+[01:45:14] [Server thread/INFO] [tombstone]: Takuda has successfully been saved
+[01:45:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Takuda
+[01:45:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Takuda: Teleported Takuda to Alpha_235]
+[01:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Takuda: Teleported Takuda to Alpha_235]
+[01:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Takuda: Teleported Takuda to Alpha_235]
+[01:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Takuda: Teleported Takuda to kitsette]
+[01:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alpha_235 has reached the goal [Strong or Careful]
+[01:46:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Alpha_235
+[01:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alpha_235 burned to death
+[01:46:42] [Server thread/INFO] [tombstone]: The last known grave of Alpha_235 is at location [name:Last Grave, x:-578, y:74, z:600] in the dimension 0
+[01:46:42] [Server thread/INFO] [tombstone]: Alpha_235 has successfully been saved
+[01:46:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Alpha_235
+[01:49:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to moltgames
+[01:49:01] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for moltgames
+[01:50:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alpha_235 has made the advancement [Arcane Initiate]
+[01:50:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Alpha_235
+[01:51:33] [Server thread/ERROR] [minecolonies]: handleDecoration: Could not build schematics/HutBlocks/BarracksTowerHut
+[01:51:39] [Server thread/ERROR] [minecolonies]: handleDecoration: Could not build schematics/HutBlocks/BarracksTowerHut
+[01:51:47] [Server thread/ERROR] [minecolonies]: handleDecoration: Could not build schematics/HutBlocks/BarracksTowerHut
+[01:52:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Alpha_235
+[01:52:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Takuda: Teleported Takuda to kitsette]
+[01:52:37] [Server thread/ERROR] [minecolonies]: handleDecoration: Could not build schematics/HutBlocks/BarracksTowerHut

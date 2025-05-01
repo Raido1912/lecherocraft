@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "erebus:exploration/kill_all": {
+    "criteria": {
+      "kill_black_widow": "2025-05-01 01:36:15 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/buildingblocks/palm_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1345,6 +1351,12 @@
     },
     "done": false
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-01 01:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1798,6 +1810,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-01 01:34:11 +0000"
     },
     "done": true
   },
@@ -2456,6 +2474,12 @@
     },
     "done": true
   },
+  "erebus:exploration/entomology": {
+    "criteria": {
+      "kill_black_widow": "2025-05-01 01:36:15 +0000"
+    },
+    "done": false
+  },
   "tombstone:tutorial/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-26 22:49:21 +0000"
@@ -2817,6 +2841,14 @@
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "phantasmagoric_inferno": "2025-05-01 01:36:55 +0000",
+      "visceral_heap": "2025-05-01 01:43:41 +0000",
+      "corrupted_sands": "2025-05-01 01:34:15 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/decorations/beach_terrarium": {
     "criteria": {
@@ -3788,6 +3820,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "erebus:exploration/poison_sac": {
+    "criteria": {
+      "sac_get": "2025-05-01 01:36:18 +0000"
     },
     "done": true
   },

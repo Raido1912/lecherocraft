@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2025-05-01 01:52:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1754,6 +1760,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/death_master": {
+    "criteria": {
+      "has_prevent_burn": "2025-05-01 01:39:30 +0000"
+    },
+    "done": false
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-04-28 00:44:14 +0000"
@@ -2300,6 +2312,12 @@
     },
     "done": true
   },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2025-05-01 01:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -2622,6 +2640,7 @@
       "potato": "2025-04-28 02:13:18 +0000",
       "cooked_cod": "2025-04-28 01:22:32 +0000",
       "pumpkin_pie": "2025-04-29 02:48:57 +0000",
+      "bread": "2025-05-01 01:42:30 +0000",
       "rotten_flesh": "2025-04-29 03:13:10 +0000",
       "beetroot": "2025-04-28 01:37:30 +0000",
       "carrot": "2025-04-28 00:55:15 +0000"
@@ -3032,6 +3051,7 @@
   },
   "ebwizardry:all_artefacts": {
     "criteria": {
+      "amulet_potential": "2025-05-01 01:39:08 +0000",
       "charm_minion_health": "2025-04-28 01:35:38 +0000"
     },
     "done": false
@@ -3636,6 +3656,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 01:39:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/black_dye_from_deathbloom": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3880,6 +3906,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 01:46:42 +0000"
     },
     "done": true
   },
