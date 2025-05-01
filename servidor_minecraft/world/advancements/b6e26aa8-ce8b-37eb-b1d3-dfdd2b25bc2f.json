@@ -1712,6 +1712,12 @@
     },
     "done": true
   },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2025-05-01 18:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3500,6 +3506,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "ward": "2025-05-01 18:46:11 +0000"
+    },
+    "done": false
+  },
   "treasure2:recipes/pilferers_lock_pick": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3930,6 +3942,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-05-01 18:46:11 +0000"
     },
     "done": true
   },
