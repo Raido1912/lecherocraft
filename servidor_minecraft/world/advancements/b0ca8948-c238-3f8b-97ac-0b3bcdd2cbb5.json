@@ -1966,6 +1966,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-05-01 03:12:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
