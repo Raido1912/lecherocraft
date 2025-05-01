@@ -1263,6 +1263,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-05-01 00:08:31 +0000"
+    },
+    "done": true
+  },
   "roots:all_the_herbs_3": {
     "criteria": {
       "wildroot": "2025-04-30 02:17:21 +0000"
@@ -1596,6 +1602,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-05-01 00:08:31 +0000"
     },
     "done": true
   },
@@ -2548,6 +2560,7 @@
       "pumpkin_pie": "2025-04-30 03:50:46 +0000",
       "rotten_flesh": "2025-04-30 03:14:28 +0000",
       "golden_carrot": "2025-04-26 23:23:18 +0000",
+      "beetroot": "2025-05-01 00:03:12 +0000",
       "cooked_chicken": "2025-04-26 23:41:46 +0000"
     },
     "done": false
@@ -2627,6 +2640,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2025-05-01 00:08:55 +0000"
     },
     "done": true
   },
