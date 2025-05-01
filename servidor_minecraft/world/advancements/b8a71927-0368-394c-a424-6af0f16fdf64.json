@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_dead_wood_planks_and_dark_stick": {
+    "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1022,9 +1028,10 @@
   },
   "midnight:recipes/from_ebonys_and_dark_stick": {
     "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000",
       "requirement_1": "2025-04-30 23:54:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
@@ -1236,6 +1243,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_dark_stick": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:14:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ebony_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -1325,6 +1338,12 @@
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
     },
     "done": true
+  },
+  "midnight:recipes/from_shadowroot_planks_and_dark_stick": {
+    "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
@@ -1461,6 +1480,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_dark_willow_planks": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:14:39 +0000"
     },
     "done": true
   },
@@ -1679,6 +1704,12 @@
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
     },
     "done": true
+  },
+  "midnight:recipes/from_viridshroom_planks_and_dark_stick": {
+    "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
@@ -2142,6 +2173,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_nightshroom_planks_and_dark_stick": {
+    "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -2162,9 +2199,10 @@
   },
   "midnight:recipes/from_tenebrum_ingot_and_dark_stick": {
     "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000",
       "requirement_1": "2025-05-01 01:00:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
@@ -2195,6 +2233,12 @@
       "criteria_0": "2025-04-27 00:45:30 +0000"
     },
     "done": true
+  },
+  "midnight:recipes/from_dewshroom_planks_and_dark_stick": {
+    "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/buildingblocks/umbran_stairs": {
     "criteria": {
@@ -2565,9 +2609,10 @@
   },
   "midnight:recipes/from_nightstone_and_dark_stick": {
     "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000",
       "requirement_1": "2025-04-30 23:52:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/buildingblocks/magic_planks": {
     "criteria": {
@@ -2815,6 +2860,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_any_unstable_fruit": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -2860,6 +2911,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_dark_willow_log": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:14:37 +0000"
     },
     "done": true
   },
@@ -2914,6 +2971,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_any_midnight_wood": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:14:39 +0000"
     },
     "done": true
   },
@@ -3525,9 +3588,10 @@
   },
   "midnight:recipes/from_nagrilite_ingot_and_dark_stick": {
     "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000",
       "requirement_1": "2025-05-01 01:00:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
@@ -3682,6 +3746,12 @@
   "biomesoplenty:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_raw_suavis": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:14:29 +0000"
     },
     "done": true
   },
@@ -4069,6 +4139,13 @@
     },
     "done": true
   },
+  "midnight:recipes/from_dark_willow_planks_and_dark_stick": {
+    "criteria": {
+      "requirement_2": "2025-05-01 01:14:43 +0000",
+      "requirement_1": "2025-05-01 01:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -4084,6 +4161,12 @@
   "ebwizardry:wizard_tower": {
     "criteria": {
       "criteria_0": "2025-04-26 23:00:46 +0000"
+    },
+    "done": true
+  },
+  "midnight:midnight/inebriated": {
+    "criteria": {
+      "gathered_suavis": "2025-05-01 01:14:29 +0000"
     },
     "done": true
   },

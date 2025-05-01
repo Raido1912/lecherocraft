@@ -986,3 +986,4 @@
 2025-04-30 23:11:19,285 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/aged_ruleset.json at ./world/data/decay/treasure2/rulesets/aged_ruleset.json but it doesn't exist.
 2025-04-30 23:11:19,293 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/default_ruleset.json at ./world/data/decay/treasure2/rulesets/default_ruleset.json but it doesn't exist.
 2025-04-30 23:11:19,293 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/ruinous_ruleset.json at ./world/data/decay/treasure2/rulesets/ruinous_ruleset.json but it doesn't exist.
+2025-05-01 01:21:19,289 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 264 64 1144

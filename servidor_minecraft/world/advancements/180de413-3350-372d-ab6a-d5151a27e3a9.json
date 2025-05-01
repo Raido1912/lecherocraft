@@ -2391,6 +2391,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_raw_suavis": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -3138,6 +3144,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "midnight:midnight/inebriated": {
+    "criteria": {
+      "gathered_suavis": "2025-05-01 01:21:47 +0000"
     },
     "done": true
   },

@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_any_unstable_fruit": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:20:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/bamboo_terrarium": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -2481,6 +2487,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_raw_suavis": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -3266,6 +3278,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "midnight:midnight/inebriated": {
+    "criteria": {
+      "gathered_suavis": "2025-05-01 01:21:51 +0000"
     },
     "done": true
   },

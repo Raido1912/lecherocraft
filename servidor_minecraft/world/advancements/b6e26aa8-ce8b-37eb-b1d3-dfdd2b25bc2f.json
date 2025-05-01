@@ -1303,6 +1303,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_zombiefrozen": {
+    "criteria": {
+      "kill_zombiefrozen": "2025-05-01 01:16:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/umbran_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -2015,6 +2021,12 @@
   "biomesoplenty:recipes/redstone/ebony_door": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-05-01 01:18:48 +0000"
     },
     "done": true
   },
