@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-05-01 00:51:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -1545,6 +1551,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_amethyst": {
+    "criteria": {
+      "hat": "2025-05-01 01:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"
@@ -1794,10 +1806,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-26 23:17:24 +0000",
+      "extreme_hills_with_trees": "2025-05-01 00:52:48 +0000",
       "forest_hills": "2025-04-26 23:12:34 +0000",
       "plains": "2025-04-26 23:14:32 +0000",
       "taiga": "2025-04-26 23:35:07 +0000",
-      "taiga_hills": "2025-04-29 02:09:52 +0000"
+      "taiga_hills": "2025-04-29 02:09:52 +0000",
+      "extreme_hills": "2025-05-01 00:52:52 +0000"
     },
     "done": false
   },

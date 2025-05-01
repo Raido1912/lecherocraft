@@ -2160,6 +2160,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_tenebrum_ingot_and_dark_stick": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:00:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -2205,6 +2211,12 @@
   "bewitchment:purification_in_progress": {
     "criteria": {
       "ghost": "2025-04-28 01:49:22 +0000"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_nagrilite_ingot": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:00:35 +0000"
     },
     "done": true
   },
@@ -3511,6 +3523,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_nagrilite_ingot_and_dark_stick": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:00:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3872,6 +3890,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_tenebrum_ingot": {
+    "criteria": {
+      "requirement_1": "2025-05-01 01:00:32 +0000"
     },
     "done": true
   },

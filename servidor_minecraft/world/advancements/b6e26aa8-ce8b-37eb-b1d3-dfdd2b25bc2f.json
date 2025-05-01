@@ -2976,6 +2976,12 @@
     },
     "done": true
   },
+  "erebus:portal/root": {
+    "criteria": {
+      "diamond": "2025-05-01 00:56:01 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/wasteland_terrarium": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3279,6 +3285,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-01 00:56:01 +0000"
     },
     "done": true
   },
