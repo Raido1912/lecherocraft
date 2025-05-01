@@ -2794,6 +2794,12 @@
     },
     "done": false
   },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2025-05-01 02:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -3459,6 +3465,7 @@
       "extreme_hills_with_trees": "2025-04-29 03:30:13 +0000",
       "forest_hills": "2025-04-26 21:46:25 +0000",
       "plains": "2025-04-26 21:51:43 +0000",
+      "savanna": "2025-05-01 02:14:10 +0000",
       "taiga": "2025-04-26 21:46:05 +0000",
       "taiga_hills": "2025-04-26 21:46:08 +0000",
       "ocean": "2025-04-26 21:45:58 +0000",

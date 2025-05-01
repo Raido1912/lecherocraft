@@ -1081,6 +1081,12 @@
     },
     "done": true
   },
+  "mysticalworld:aubergine": {
+    "criteria": {
+      "book": "2025-05-01 02:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"
@@ -2501,6 +2507,7 @@
       "potato": "2025-04-29 04:44:43 +0000",
       "rotten_flesh": "2025-04-30 03:06:36 +0000",
       "cooked_chicken": "2025-04-30 23:30:09 +0000",
+      "mushroom_stew": "2025-05-01 02:15:12 +0000",
       "carrot": "2025-04-28 00:55:45 +0000"
     },
     "done": false
