@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-05-01 20:09:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/ominous_terrarium": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:48:11 +0000"

@@ -5177,3 +5177,20 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [20:04:34] [Server thread/INFO] [morpheus]: Oasins is now sleeping. 2/4 (50%)
 [20:04:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Oasins moved wrongly!
 [20:04:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: totato moved wrongly!
+[20:09:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for totato
+[20:13:42] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[20:13:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6a0e850)
+[20:13:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to moltgames
+[20:13:42] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for moltgames
+[20:13:55] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.Fishmod.mod_LavaCow.entities.flying.EntityGhostRay from class com.Fishmod.mod_LavaCow.entities.EntityLavaCow
+[20:15:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Oasins> zzzzz
+[20:15:31] [Server thread/INFO] [morpheus]: Oasins is now sleeping. 1/3 (33%)
+[20:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames burned to ashes
+[20:15:38] [Server thread/INFO] [tombstone]: The last known grave of moltgames is at location [name:Last Grave, x:-67, y:44, z:-44] in the dimension -1
+[20:15:38] [Server thread/INFO] [tombstone]: moltgames has successfully been saved
+[20:15:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to moltgames
+[20:15:44] [Server thread/INFO] [morpheus]: totato is now sleeping. 2/4 (50%)
+[20:15:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Oasins moved wrongly!
+[20:15:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: totato moved wrongly!
+[20:15:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to moltgames
+[20:15:53] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for moltgames
