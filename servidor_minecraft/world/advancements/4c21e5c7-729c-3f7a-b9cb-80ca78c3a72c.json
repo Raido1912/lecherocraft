@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-01 03:35:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-05-01 02:11:12 +0000"
@@ -602,6 +608,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "deep_ocean": "2025-05-01 03:45:02 +0000",
       "beaches": "2025-05-01 02:15:53 +0000",
       "plains": "2025-05-01 02:19:25 +0000",
       "taiga": "2025-05-01 02:11:12 +0000",
@@ -660,7 +667,8 @@
   },
   "erebus:portal/root": {
     "criteria": {
-      "diamond": "2025-05-01 03:24:40 +0000"
+      "diamond": "2025-05-01 03:24:40 +0000",
+      "obsidian": "2025-05-01 03:35:41 +0000"
     },
     "done": false
   },
@@ -685,6 +693,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 02:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-01 03:35:41 +0000"
     },
     "done": true
   },
