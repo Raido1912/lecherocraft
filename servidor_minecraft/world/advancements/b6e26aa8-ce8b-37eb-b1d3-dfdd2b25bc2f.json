@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_opal": {
+    "criteria": {
+      "hat": "2025-05-01 00:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1964,6 +1970,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-05-01 00:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -3144,6 +3156,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_salt": {
+    "criteria": {
+      "hat": "2025-05-01 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -4156,6 +4174,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_silver": {
+    "criteria": {
+      "hat": "2025-05-01 00:25:25 +0000"
     },
     "done": true
   },

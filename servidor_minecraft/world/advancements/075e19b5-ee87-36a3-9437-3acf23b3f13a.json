@@ -1600,13 +1600,20 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
+      "faction": "2025-05-01 00:22:37 +0000",
       "kill": "2025-04-28 22:18:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:51:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2025-05-01 00:22:37 +0000"
     },
     "done": true
   },
