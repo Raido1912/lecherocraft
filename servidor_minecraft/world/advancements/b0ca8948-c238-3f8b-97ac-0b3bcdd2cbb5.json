@@ -2977,7 +2977,8 @@
   },
   "erebus:portal/root": {
     "criteria": {
-      "diamond": "2025-04-28 01:12:14 +0000"
+      "diamond": "2025-04-28 01:12:14 +0000",
+      "obsidian": "2025-05-01 18:32:13 +0000"
     },
     "done": false
   },
@@ -3771,6 +3772,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-01 18:32:13 +0000"
     },
     "done": true
   },
