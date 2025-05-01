@@ -1729,6 +1729,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2025-05-01 20:38:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
@@ -2194,6 +2200,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-27 00:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2025-05-01 20:38:14 +0000"
     },
     "done": true
   },
