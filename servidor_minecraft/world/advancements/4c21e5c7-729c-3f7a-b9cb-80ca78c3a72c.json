@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-05-01 03:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-01 02:11:12 +0000"
@@ -146,6 +152,12 @@
   "treasure2:recipes/key_ring": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-05-01 03:15:54 +0000"
     },
     "done": true
   },
@@ -200,6 +212,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-01 02:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-05-01 03:19:23 +0000"
     },
     "done": true
   },
@@ -344,6 +362,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-05-01 03:22:32 +0000"
     },
     "done": true
   },
@@ -503,6 +527,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-01 03:16:39 +0000",
+      "iron_helmet": "2025-05-01 03:16:39 +0000"
+    },
+    "done": true
+  },
   "mod_lavacow:mod_lavacow/root": {
     "criteria": {
       "tick": "2025-05-01 02:11:12 +0000"
@@ -532,6 +563,7 @@
       "beaches": "2025-05-01 02:15:53 +0000",
       "plains": "2025-05-01 02:19:25 +0000",
       "taiga": "2025-05-01 02:11:12 +0000",
+      "ocean": "2025-05-01 03:23:45 +0000",
       "river": "2025-05-01 02:18:01 +0000"
     },
     "done": false
@@ -755,6 +787,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 02:20:21 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-05-01 03:15:05 +0000"
     },
     "done": true
   }
