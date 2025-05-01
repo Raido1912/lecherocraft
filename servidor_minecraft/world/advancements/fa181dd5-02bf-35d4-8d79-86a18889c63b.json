@@ -2253,6 +2253,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 01:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_the_recipe": "2025-04-26 23:12:34 +0000"

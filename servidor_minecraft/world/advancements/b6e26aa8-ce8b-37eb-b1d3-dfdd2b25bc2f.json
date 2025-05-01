@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 01:26:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1165,6 +1171,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-05-01 01:32:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/blue_dye_from_bluebells": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
@@ -1426,6 +1438,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-01 01:26:24 +0000"
     },
     "done": true
   },
@@ -3075,6 +3093,12 @@
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-01 01:26:24 +0000"
     },
     "done": true
   },
