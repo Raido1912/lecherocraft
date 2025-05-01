@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-01 20:25:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-04-26 22:03:19 +0000"
@@ -732,6 +738,12 @@
     },
     "done": true
   },
+  "roots:all_the_herbs_3": {
+    "criteria": {
+      "wildroot": "2025-05-01 20:24:46 +0000"
+    },
+    "done": false
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2025-04-29 00:28:19 +0000"
@@ -831,6 +843,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-01 20:25:30 +0000"
     },
     "done": true
   },
@@ -1954,6 +1972,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "roots:wildroot": {
+    "criteria": {
+      "book": "2025-05-01 20:24:46 +0000"
     },
     "done": true
   },
@@ -4364,6 +4388,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-01 20:25:30 +0000"
     },
     "done": true
   },
