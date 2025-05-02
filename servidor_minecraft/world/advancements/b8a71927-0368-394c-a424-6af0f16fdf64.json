@@ -7307,6 +7307,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-05-02 22:40:51 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -22270,6 +22276,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-05-02 22:37:40 +0000"
     },
     "done": true
   },

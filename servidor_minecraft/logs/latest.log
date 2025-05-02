@@ -3831,3 +3831,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 22:37:40.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Blood Feeders' Home]
 [02May2025 22:37:56.809] [Worker-Main-13/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
 [02May2025 22:37:56.825] [Worker-Main-13/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[02May2025 22:44:20.223] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3db64918
+[02May2025 22:44:20.320] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 22:44:20.415] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 22:44:20.416] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Oasins[/127.216.67.152:37785] logged in with entity id 9277 at (-673.101746503796, 65.0, -471.98865717680457)
+[02May2025 22:44:20.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins joined the game
+[02May2025 22:44:20.431] [Server thread/INFO] [tac/]: PENDING
+[02May2025 22:44:20.460] [Server thread/INFO] [Waila/]: Syncing config to Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5)
+[02May2025 22:44:48.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> oye we y las casas?
+[02May2025 22:44:59.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Oasins: Teleported moltgames to Oasins]
+[02May2025 22:45:39.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> la mitad de la casa de paps desaparecio xd
+[02May2025 22:45:52.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Esta a medio cocinar
+[02May2025 22:45:58.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> y ahora
+[02May2025 22:46:02.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> donde queda mi casa
+[02May2025 22:46:24.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> No esta tu casa walter
+[02May2025 22:46:25.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Creative Mode]
+[02May2025 22:46:29.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> como que no
+[02May2025 22:46:43.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tons se reinicio todo?
+[02May2025 22:47:50.696] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-349, y=27, z=-856}
+[02May2025 22:47:50.696] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-348, y=27, z=-864}
+[02May2025 22:47:52.298] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-336, y=32, z=-862}
+[02May2025 22:48:23.640] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Timed out
+[02May2025 22:48:23.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[02May2025 22:48:23.741] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[02May2025 22:48:34.838] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f264dbd
+[02May2025 22:48:34.925] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 22:48:34.993] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 22:48:34.995] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.32.21.103:56013] logged in with entity id 11633 at (-484.9257976867823, 82.12009718038333, -911.0625522009171)
+[02May2025 22:48:35.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[02May2025 22:48:35.025] [Server thread/INFO] [tac/]: PENDING
+[02May2025 22:48:35.054] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[02May2025 22:49:14.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Oasins]
+[02May2025 22:49:18.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> diavlo
+[02May2025 22:49:24.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Spectator Mode]
+[02May2025 22:50:01.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Oasins]
+[02May2025 22:50:08.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Survival Mode]
+[02May2025 22:50:10.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> bien
+[02May2025 22:50:14.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> lo hare yo mismo
+[02May2025 22:50:34.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> donde hay uranio ,sangre y vampiros
+[02May2025 22:50:40.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> estare yo
