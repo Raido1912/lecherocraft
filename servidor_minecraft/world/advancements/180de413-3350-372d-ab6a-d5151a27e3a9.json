@@ -479,6 +479,18 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-02 03:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -971,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_kitchen_sink": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -1334,6 +1352,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -2375,6 +2399,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-05-02 03:04:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/pink_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -2771,6 +2801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/crystal_quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -3050,6 +3086,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-02 03:00:05 +0000"
     },
     "done": true
   },
@@ -3476,6 +3518,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_brick_slab_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 02:58:39 +0000"
     },
     "done": true
   },
@@ -4214,6 +4262,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/magenta_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -5480,6 +5534,12 @@
   "cfm:recipes/cfm/white_picket_fence": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -9485,6 +9545,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/ghoul_claw": {
+    "criteria": {
+      "has_item": "2025-05-02 03:00:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
@@ -10046,6 +10112,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -13649,6 +13721,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-02 03:02:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_observer": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -14144,6 +14222,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -17567,6 +17651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/sextant": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
@@ -18401,6 +18491,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/sharptooth": {
+    "criteria": {
+      "has_item": "2025-05-02 03:00:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_bricks_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:16 +0000"
@@ -18428,6 +18524,12 @@
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/glowshroom": {
+    "criteria": {
+      "has_item": "2025-05-02 03:08:07 +0000"
     },
     "done": true
   },
@@ -19100,6 +19202,12 @@
   "farmersdelight:recipes/farmersdelight/gray_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -20543,6 +20651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/white_pavement": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -20660,6 +20774,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -20924,6 +21044,12 @@
   "botania:recipes/botania/slab_recombine/metamorphic_mesa_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -23303,6 +23429,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-05-02 03:08:05 +0000",
+      "minecraft:river": "2025-05-02 03:04:49 +0000",
+      "minecraft:savanna": "2025-05-02 03:00:13 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/jungle_kitchen_counter": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -24527,6 +24661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
@@ -24554,6 +24694,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-02 03:00:47 +0000"
     },
     "done": true
   },
@@ -24620,6 +24766,12 @@
   "securitycraft:recipes/securitycraft/reinforced_chiseled_polished_blackstone": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-02 03:02:30 +0000"
     },
     "done": true
   },

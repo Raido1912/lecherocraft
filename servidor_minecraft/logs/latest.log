@@ -5284,3 +5284,60 @@ java.lang.NullPointerException: null
 [02May2025 02:59:04.801] [Server thread/INFO] [tac/]: PENDING
 [02May2025 02:59:16.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Sweet Dreams]
 [02May2025 02:59:25.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has reached the goal [Here They Come]
+[02May2025 03:01:04.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Sweet Dreams]
+[02May2025 03:01:16.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> zzz
+[02May2025 03:01:17.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> zzz
+[02May2025 03:01:18.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> zzz
+[02May2025 03:01:19.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> zzz
+[02May2025 03:01:20.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> zzz
+[02May2025 03:01:24.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Monster Hunter]
+[02May2025 03:01:44.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [A Strange Grave Dust]
+[02May2025 03:02:30.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Sky of Beginning]
+[02May2025 03:02:54.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/7910, l='ServerLevel[world]', x=20.26, y=42.60, z=-238.71]
+[02May2025 03:02:54.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/7910, l='ServerLevel[world]', x=20.26, y=42.60, z=-238.71]
+[02May2025 03:02:54.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/7911, l='ServerLevel[world]', x=20.59, y=43.69, z=-238.75]
+[02May2025 03:02:54.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/7911, l='ServerLevel[world]', x=20.59, y=43.69, z=-238.75]
+[02May2025 03:02:54.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7912, l='ServerLevel[world]', x=16.65, y=38.31, z=-240.73]
+[02May2025 03:02:54.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7912, l='ServerLevel[world]', x=16.65, y=38.31, z=-240.73]
+[02May2025 03:02:54.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7912, l='ServerLevel[world]', x=16.65, y=38.31, z=-240.73]
+[02May2025 03:02:54.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/7914, l='ServerLevel[world]', x=21.27, y=41.64, z=-238.30]
+[02May2025 03:02:54.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/7914, l='ServerLevel[world]', x=21.27, y=41.64, z=-238.30]
+[02May2025 03:02:54.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7915, l='ServerLevel[world]', x=17.42, y=41.45, z=-243.54]
+[02May2025 03:02:54.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7915, l='ServerLevel[world]', x=17.42, y=41.45, z=-243.54]
+[02May2025 03:02:54.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7915, l='ServerLevel[world]', x=17.42, y=41.45, z=-243.54]
+[02May2025 03:02:54.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/7916, l='ServerLevel[world]', x=17.36, y=44.69, z=-238.31]
+[02May2025 03:02:54.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/7916, l='ServerLevel[world]', x=17.36, y=44.69, z=-238.31]
+[02May2025 03:02:54.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/7916, l='ServerLevel[world]', x=17.36, y=44.69, z=-238.31]
+[02May2025 03:02:54.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/7917, l='ServerLevel[world]', x=22.42, y=43.42, z=-242.33]
+[02May2025 03:02:54.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/7917, l='ServerLevel[world]', x=22.42, y=43.42, z=-242.33]
+[02May2025 03:02:54.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/7918, l='ServerLevel[world]', x=19.69, y=43.52, z=-243.75]
+[02May2025 03:02:54.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/7918, l='ServerLevel[world]', x=19.69, y=43.52, z=-243.75]
+[02May2025 03:02:54.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/7919, l='ServerLevel[world]', x=17.61, y=43.42, z=-243.27]
+[02May2025 03:02:54.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/7919, l='ServerLevel[world]', x=17.61, y=43.42, z=-243.27]
+[02May2025 03:02:54.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/7919, l='ServerLevel[world]', x=17.61, y=43.42, z=-243.27]
+[02May2025 03:02:54.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7920, l='ServerLevel[world]', x=19.47, y=37.72, z=-239.43]
+[02May2025 03:02:54.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7920, l='ServerLevel[world]', x=19.47, y=37.72, z=-239.43]
+[02May2025 03:02:54.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7920, l='ServerLevel[world]', x=19.47, y=37.72, z=-239.43]
+[02May2025 03:02:54.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7921, l='ServerLevel[world]', x=16.61, y=40.25, z=-241.54]
+[02May2025 03:02:54.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7921, l='ServerLevel[world]', x=16.61, y=40.25, z=-241.54]
+[02May2025 03:02:54.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7921, l='ServerLevel[world]', x=16.61, y=40.25, z=-241.54]
+[02May2025 03:02:54.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7922, l='ServerLevel[world]', x=18.60, y=39.38, z=-241.34]
+[02May2025 03:02:54.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7922, l='ServerLevel[world]', x=18.60, y=39.38, z=-241.34]
+[02May2025 03:02:54.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/7922, l='ServerLevel[world]', x=18.60, y=39.38, z=-241.34]
+[02May2025 03:02:54.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7923, l='ServerLevel[world]', x=18.35, y=37.36, z=-239.71]
+[02May2025 03:02:54.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7923, l='ServerLevel[world]', x=18.35, y=37.36, z=-239.71]
+[02May2025 03:02:54.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/7923, l='ServerLevel[world]', x=18.35, y=37.36, z=-239.71]
+[02May2025 03:02:54.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/7924, l='ServerLevel[world]', x=21.28, y=43.40, z=-239.70]
+[02May2025 03:02:54.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/7924, l='ServerLevel[world]', x=21.28, y=43.40, z=-239.70]
+[02May2025 03:03:04.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Masquerade]
+[02May2025 03:03:05.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was tragically enlightened!
+[02May2025 03:03:05.610] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[02May2025 03:03:08.871] [Server thread/INFO] [tac/]: PENDING
+[02May2025 03:03:18.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was shot by Barakoa
+[02May2025 03:03:18.061] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[02May2025 03:03:19.542] [Server thread/INFO] [tac/]: PENDING
+[02May2025 03:04:57.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Crops of the Wild]
+[02May2025 03:09:25.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 hit the ground too hard whilst trying to escape Skeleton
+[02May2025 03:09:25.568] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[02May2025 03:09:28.449] [Server thread/INFO] [tac/]: PENDING
+[02May2025 03:09:52.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to totato]

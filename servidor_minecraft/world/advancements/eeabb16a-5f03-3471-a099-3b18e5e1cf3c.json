@@ -1679,6 +1679,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 02:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -3491,6 +3497,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 03:01:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_picket_fence": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
@@ -4862,6 +4874,12 @@
   "securitycraft:recipes/securitycraft/reinforced_brown_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 02:59:25 +0000"
     },
     "done": true
   },
@@ -8075,6 +8093,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 02:58:22 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -10604,6 +10628,12 @@
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 02:59:37 +0000"
     },
     "done": true
   },
@@ -16291,7 +16321,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "shrubland": "2025-05-02 02:43:14 +0000"
+      "shrubland": "2025-05-02 02:43:14 +0000",
+      "dryland": "2025-05-02 03:05:10 +0000"
     },
     "done": false
   },
@@ -23377,6 +23408,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-02 03:05:37 +0000",
+      "minecraft:river": "2025-05-02 03:05:34 +0000",
       "minecraft:savanna": "2025-05-02 02:58:07 +0000"
     },
     "done": false
