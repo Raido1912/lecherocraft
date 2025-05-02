@@ -7309,12 +7309,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-05-02 22:40:51 +0000"
-    },
-    "done": false
-  },
   "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -21894,6 +21888,12 @@
   "framedblocks:recipes/framed_blocks/framed_lever": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-05-02 23:00:45 +0000"
     },
     "done": true
   },
