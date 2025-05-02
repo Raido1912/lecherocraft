@@ -3724,6 +3724,7 @@
       "minecraft:skeleton": "2025-05-02 04:13:26 +0000",
       "minecraft:ghast": "2025-05-02 05:28:40 +0000",
       "minecraft:spider": "2025-05-02 04:17:34 +0000",
+      "minecraft:zombified_piglin": "2025-05-02 05:30:07 +0000",
       "minecraft:enderman": "2025-05-02 04:19:36 +0000"
     },
     "done": false
@@ -11978,6 +11979,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-02 05:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
@@ -16250,6 +16257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-02 05:35:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:51 +0000"
@@ -18800,6 +18813,12 @@
   "botania:recipes/botania/mana_quartz": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-02 05:34:53 +0000"
     },
     "done": true
   },
@@ -23471,6 +23490,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-02 05:33:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:55 +0000"
@@ -24579,6 +24604,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 05:34:09 +0000"
     },
     "done": true
   },

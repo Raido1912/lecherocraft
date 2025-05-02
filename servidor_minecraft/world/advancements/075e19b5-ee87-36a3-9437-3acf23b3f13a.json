@@ -3047,6 +3047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-02 05:35:53 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:17 +0000"
@@ -3470,6 +3476,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_brick_slab_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 05:34:17 +0000"
     },
     "done": true
   },
@@ -5342,6 +5354,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 05:32:53 +0000"
     },
     "done": true
   },
@@ -8204,6 +8222,12 @@
   "farmersdelight:recipes/farmersdelight/dark_oak_pantry": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 05:32:53 +0000"
     },
     "done": true
   },
@@ -14939,6 +14963,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-02 05:32:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/redstone_mine": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:15 +0000"
@@ -17810,6 +17840,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-02 05:32:53 +0000"
     },
     "done": true
   },
@@ -23123,6 +23159,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-02 05:35:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_mail_box": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:16 +0000"
@@ -23284,6 +23326,13 @@
       "has_the_recipe": "2025-05-02 05:28:18 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-02 05:39:19 +0000",
+      "minecraft:savanna": "2025-05-02 05:32:17 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/jungle_kitchen_counter": {
     "criteria": {
@@ -23950,6 +23999,12 @@
       "has_the_recipe": "2025-05-02 05:28:14 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-02 05:36:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
