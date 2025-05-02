@@ -23297,6 +23297,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2025-05-02 03:22:16 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/jungle_kitchen_counter": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:26 +0000"

@@ -5382,3 +5382,40 @@ java.lang.NullPointerException: null
 [02May2025 03:16:25.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Electrodynamics]
 [02May2025 03:18:11.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
 [02May2025 03:20:41.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Silent Chills]
+[02May2025 03:21:51.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [totato: Teleported totato to Oasins]
+[02May2025 03:22:11.378] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d900352
+[02May2025 03:22:11.482] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 03:22:11.560] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 03:22:11.561] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Alpha_235[/127.21.110.24:42211] logged in with entity id 18008 at (13.906337774212517, 69.0, -12.32912846271145)
+[02May2025 03:22:11.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alpha_235 joined the game
+[02May2025 03:22:11.568] [Server thread/INFO] [tac/]: PENDING
+[02May2025 03:22:11.600] [Server thread/INFO] [Waila/]: Syncing config to Alpha_235 (b6e26aa8-ce8b-37eb-b1d3-dfdd2b25bc2f)
+[02May2025 03:22:15.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Alpha_235 to Rukasu2903]
+[02May2025 03:22:26.666] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Alpha_235 lost connection: Timed out
+[02May2025 03:22:26.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alpha_235 left the game
+[02May2025 03:23:14.128] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Oasins moved too quickly! 5.8945894793057505,2.5040129017765196,7.754486065360368
+[02May2025 03:23:14.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[02May2025 03:23:39.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzzzzzzzzz
+[02May2025 03:26:31.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Oasins: Teleported Oasins to totato]
+[02May2025 03:27:55.825] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 566d98e8-086c-4bc8-9cb2-33ec4d5f89e2. Existing minecraft:zombie#22176, new: minecraft:zombie#22176
+[02May2025 03:27:56.433] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 8aad5156-46b5-41fc-a91e-0d256f5776ae. Existing mod_lavacow:raven#22239, new: mod_lavacow:raven#22239
+[02May2025 03:28:17.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02May2025 03:28:44.342] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f1f1457
+[02May2025 03:28:44.439] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 03:28:44.531] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 03:28:44.532] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Alpha_235[/127.21.110.24:59109] logged in with entity id 23381 at (-145.06392649379637, 81.0, -587.2148312303881)
+[02May2025 03:28:44.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alpha_235 joined the game
+[02May2025 03:28:44.541] [Server thread/INFO] [tac/]: PENDING
+[02May2025 03:28:44.554] [Server thread/INFO] [Waila/]: Syncing config to Alpha_235 (b6e26aa8-ce8b-37eb-b1d3-dfdd2b25bc2f)
+[02May2025 03:28:54.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Blood Feeders' Home]
+[02May2025 03:28:59.669] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Alpha_235 lost connection: Timed out
+[02May2025 03:28:59.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alpha_235 left the game
+[02May2025 03:29:01.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02May2025 03:29:05.801] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1327, l='ServerLevel[world]', x=-203.30, y=67.00, z=-324.30] died, message: 'Villager was slain by Grave Robber'
+[02May2025 03:29:13.845] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-826, y=0, z=-675} but found not block entity block Block{minecraft:bedrock} at location
+[02May2025 03:29:13.845] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-826, y=0, z=-675}
+[02May2025 03:29:13.845] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-818, y=0, z=-673} but found not block entity block Block{minecraft:bedrock} at location
+[02May2025 03:29:13.845] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-818, y=0, z=-673}
+[02May2025 03:29:17.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Oasins: Teleported Oasins to Rukasu2903]
+[02May2025 03:29:40.521] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 06bae210-3291-4703-8534-08ba9de002a9. Existing mod_lavacow:raven#24047, new: mod_lavacow:raven#24047
+[02May2025 03:30:59.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Acquire Hardware]
