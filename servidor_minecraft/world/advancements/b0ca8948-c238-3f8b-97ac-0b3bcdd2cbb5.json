@@ -4934,6 +4934,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 05:25:33 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:21 +0000"
@@ -17778,6 +17784,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-02 02:52:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 05:27:12 +0000"
     },
     "done": true
   },

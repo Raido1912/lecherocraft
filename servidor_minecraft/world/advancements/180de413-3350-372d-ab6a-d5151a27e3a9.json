@@ -4932,6 +4932,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 05:29:52 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -11611,6 +11617,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 05:21:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/floating_hydroangeas": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:16 +0000"
@@ -17774,6 +17786,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-02 03:00:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 05:29:22 +0000"
     },
     "done": true
   },

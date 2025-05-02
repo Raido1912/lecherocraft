@@ -1319,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-05-02 05:27:51 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/vampirism/vampire/vampire_cloak_white_black": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:54 +0000"
@@ -3716,6 +3722,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-02 04:13:26 +0000",
+      "minecraft:ghast": "2025-05-02 05:28:40 +0000",
       "minecraft:spider": "2025-05-02 04:17:34 +0000",
       "minecraft:enderman": "2025-05-02 04:19:36 +0000"
     },
@@ -15079,6 +15086,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-02 05:27:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_stripped_oak_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
@@ -16475,6 +16488,7 @@
     "criteria": {
       "shrubland": "2025-05-02 03:46:55 +0000",
       "marsh": "2025-05-02 04:27:37 +0000",
+      "visceral_heap": "2025-05-02 05:27:16 +0000",
       "shrubland_hills": "2025-05-02 04:10:44 +0000"
     },
     "done": false
@@ -20892,6 +20906,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-02 05:27:16 +0000"
     },
     "done": true
   },

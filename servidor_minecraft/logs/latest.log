@@ -3884,3 +3884,80 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 05:21:16.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was slain by Zombie
 [02May2025 05:21:16.567] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
 [02May2025 05:21:19.365] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:24:42.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko fell from a high place
+[02May2025 05:24:42.063] [Server thread/INFO] [tombstone/]: The player JsOPsiko has successfully been saved
+[02May2025 05:24:43.468] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:24:50.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by Ice Dragon
+[02May2025 05:24:50.234] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:24:51.681] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:25:33.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has reached the goal [Here They Come]
+[02May2025 05:26:40.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by Ice Dragon
+[02May2025 05:26:40.574] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:26:41.816] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:27:12.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has reached the goal [Chain Death]
+[02May2025 05:27:12.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Ice Dragon
+[02May2025 05:27:12.225] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:27:13.325] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:27:16.299] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:27:16.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [We Need to Go Deeper]
+[02May2025 05:27:33.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was frozen by Ice Dragon
+[02May2025 05:27:33.667] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:27:35.118] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:27:45.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> SIII, TAMPOCO TE ATACAN EN EL NETHER CONFIRMADO
+[02May2025 05:27:59.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by Ice Dragon
+[02May2025 05:27:59.471] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:28:00.675] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:28:13.800] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@767cd937
+[02May2025 05:28:13.813] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kitsette[/127.229.223.71:44185] logged in with entity id 17489 at (-37.5, 64.0, -123.5)
+[02May2025 05:28:13.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette joined the game
+[02May2025 05:28:13.820] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:28:13.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Easter Egg Searcher]
+[02May2025 05:28:13.890] [Server thread/INFO] [Waila/]: Syncing config to kitsette (075e19b5-ee87-36a3-9437-3acf23b3f13a)
+[02May2025 05:28:18.413] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: totato moved too quickly! -0.5171106617644909,0.8232407249357578,10.052603416248303
+[02May2025 05:28:18.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4608ms or 92 ticks behind
+[02May2025 05:28:18.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [The Dark Night]
+[02May2025 05:28:18.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Ice and Fire]
+[02May2025 05:28:22.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was turned to ice by Ice Dragon
+[02May2025 05:28:22.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by totato
+[02May2025 05:28:22.537] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[02May2025 05:28:22.537] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:28:23.855] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:28:24.263] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:28:43.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Ice Dragon
+[02May2025 05:28:43.426] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:28:44.570] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:29:07.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by Ice Dragon
+[02May2025 05:29:07.849] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:29:08.920] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:29:22.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has reached the goal [Chain Death]
+[02May2025 05:29:22.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was slain by Ice Dragon
+[02May2025 05:29:22.575] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[02May2025 05:29:24.881] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:29:27.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was frozen by Ice Dragon
+[02May2025 05:29:27.933] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:29:29.014] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:29:50.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by Ice Dragon
+[02May2025 05:29:50.862] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 05:29:52.156] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:29:52.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has reached the goal [Here They Come]
+[02May2025 05:29:53.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Dragonslayer]
+[02May2025 05:31:11.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> HAHAHAHA
+[02May2025 05:31:22.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> SI TE TRANSFORMAS EN ZOMBIE PIGLIN
+[02May2025 05:31:26.855] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: totato lost connection: Disconnected
+[02May2025 05:31:26.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato left the game
+[02May2025 05:31:30.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> SI TIENES SU INMUNIDAD AL FUEGO
+[02May2025 05:32:53.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [A Terrible Fortress]
+[02May2025 05:32:53.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Alex's Mobs]
+[02May2025 05:32:53.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Knowledge of Death]
+[02May2025 05:32:53.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Easter Food]
+[02May2025 05:33:11.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Amateur Archaeologist]
+[02May2025 05:33:36.362] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5c3e6df1
+[02May2025 05:33:36.445] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 05:33:36.502] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 05:33:36.503] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: totato[/127.36.180.57:44775] logged in with entity id 20344 at (-662.9525726447415, 64.0, -490.211084790467)
+[02May2025 05:33:36.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato joined the game
+[02May2025 05:33:36.516] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:33:36.563] [Server thread/INFO] [Waila/]: Syncing config to totato (180de413-3350-372d-ab6a-d5151a27e3a9)
+[02May2025 05:33:58.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kitsette> en terminos de progreso, no hay progreso
+[02May2025 05:34:09.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Magic Writing]
+[02May2025 05:34:17.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Sweet Dreams]
