@@ -1321,6 +1321,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 05:54:26 +0000",
       "minecraft:warped_forest": "2025-05-02 05:27:51 +0000"
     },
     "done": false
@@ -2711,6 +2712,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-02 05:42:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_magnet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
@@ -3721,10 +3728,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-02 05:42:01 +0000",
       "minecraft:skeleton": "2025-05-02 04:13:26 +0000",
       "minecraft:ghast": "2025-05-02 05:28:40 +0000",
       "minecraft:spider": "2025-05-02 04:17:34 +0000",
       "minecraft:zombified_piglin": "2025-05-02 05:30:07 +0000",
+      "minecraft:wither_skeleton": "2025-05-02 05:48:41 +0000",
       "minecraft:enderman": "2025-05-02 04:19:36 +0000"
     },
     "done": false
@@ -6207,6 +6216,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_imp": {
+    "criteria": {
+      "killed": "2025-05-02 05:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:52 +0000"
@@ -8676,6 +8691,12 @@
   "mysticalworld:recipes/mysticalworld/iron_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-02 05:52:44 +0000"
     },
     "done": true
   },
@@ -16501,8 +16522,11 @@
     "criteria": {
       "shrubland": "2025-05-02 03:46:55 +0000",
       "marsh": "2025-05-02 04:27:37 +0000",
+      "crystalline_chasm": "2025-05-02 05:49:49 +0000",
+      "withered_abyss": "2025-05-02 05:52:17 +0000",
       "visceral_heap": "2025-05-02 05:27:16 +0000",
-      "shrubland_hills": "2025-05-02 04:10:44 +0000"
+      "shrubland_hills": "2025-05-02 04:10:44 +0000",
+      "undergrowth": "2025-05-02 05:51:24 +0000"
     },
     "done": false
   },

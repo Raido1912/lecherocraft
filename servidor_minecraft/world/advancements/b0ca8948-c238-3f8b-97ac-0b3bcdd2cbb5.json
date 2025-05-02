@@ -5948,6 +5948,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2025-05-02 05:52:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -13208,6 +13214,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-02 05:52:28 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_sword": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"
@@ -17757,6 +17769,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-02 05:52:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_granite_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:21 +0000"
@@ -21630,6 +21648,12 @@
   "botania:recipes/botania/tiny_planet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-02 05:52:28 +0000"
     },
     "done": true
   },
