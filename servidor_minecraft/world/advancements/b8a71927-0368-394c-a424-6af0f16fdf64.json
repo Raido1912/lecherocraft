@@ -3753,12 +3753,6 @@
     },
     "done": true
   },
-  "nuclearcraft:radiation/geiger_counter": {
-    "criteria": {
-      "has_item": "2025-05-02 00:15:36 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 21:44:49 +0000"
