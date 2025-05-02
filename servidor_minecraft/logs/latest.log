@@ -3917,3 +3917,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 23:15:48.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> EL pikmin hace ruidos
 [02May2025 23:16:49.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzzzzzzzz
 [02May2025 23:41:29.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Not Today, Thank You]
+[02May2025 23:47:00.979] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-672, y=66, z=-431} BlockPos{x=-670, y=66, z=-433}
+[02May2025 23:47:01.009] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-672, y=67, z=-431} BlockPos{x=-670, y=66, z=-433}
+[02May2025 23:47:01.056] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-672, y=66, z=-431} BlockPos{x=-670, y=66, z=-433}
+[02May2025 23:51:11.882] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Timed out
+[02May2025 23:51:11.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
