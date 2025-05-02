@@ -14070,3 +14070,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 05:07:47.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Suit Up]
 [02May2025 05:09:43.216] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [02May2025 05:09:43.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 05:14:43.238] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 05:14:43.256] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 05:16:53.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Hot Stuff]
+[02May2025 05:19:25.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Sweet Dreams]
+[02May2025 05:19:43.211] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 05:19:43.229] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 05:21:16.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has reached the goal [Strong or Careful]
+[02May2025 05:21:16.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was slain by Zombie
+[02May2025 05:21:16.555] [Server thread/DEBUG] [tombstone/]: A new grave of the player totato was created at position [x:-621, y:70, z:-494, dim:minecraft:overworld]
+[02May2025 05:21:16.567] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[02May2025 05:21:19.365] [Server thread/INFO] [tac/]: PENDING
+[02May2025 05:21:19.400] [Server thread/DEBUG] [twilightforest/]: Player totato (180de413-3350-372d-ab6a-d5151a27e3a9) respawned and received items held in storage
