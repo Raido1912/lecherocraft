@@ -14065,3 +14065,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 05:02:12.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Me Eat Dead People]
 [02May2025 05:02:19.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Cover Me With Diamonds]
 [02May2025 05:03:07.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Serendipitous Sapphires]
+[02May2025 05:04:43.239] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 05:04:43.258] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 05:07:47.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Suit Up]
+[02May2025 05:09:43.216] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 05:09:43.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

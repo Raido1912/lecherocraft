@@ -21257,6 +21257,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_ghoul": {
+    "criteria": {
+      "killed": "2025-05-02 05:02:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/crystal_quartz": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"

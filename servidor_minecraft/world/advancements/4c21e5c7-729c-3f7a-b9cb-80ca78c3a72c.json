@@ -3107,6 +3107,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-02 05:02:19 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/ingots_lead_to_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:54 +0000"
@@ -13213,6 +13219,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-02 05:07:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_sword": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
@@ -13840,6 +13852,12 @@
   "securitycraft:recipes/securitycraft/reinforced_warped_planks": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:54 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:sapphire": {
+    "criteria": {
+      "book": "2025-05-02 05:03:07 +0000"
     },
     "done": true
   },
@@ -20571,6 +20589,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-05-02 05:03:49 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/bloodshroom/log_to_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:54 +0000"
@@ -24267,6 +24291,12 @@
       "has_the_recipe": "2025-05-02 03:46:52 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-02 05:02:39 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
