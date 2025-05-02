@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
@@ -3047,6 +3053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-02 22:02:32 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/ingots_lead_to_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -3640,6 +3652,12 @@
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-02 22:04:10 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
     "criteria": {
@@ -5351,6 +5369,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 22:04:32 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/quicksilver_shovel": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -6803,6 +6827,12 @@
     },
     "done": true
   },
+  "electrodynamics:ores": {
+    "criteria": {
+      "HasWoodenPickaxe": "2025-05-02 22:03:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_prismarine_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -8204,6 +8234,12 @@
   "farmersdelight:recipes/farmersdelight/dark_oak_pantry": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 22:04:32 +0000"
     },
     "done": true
   },
@@ -9812,6 +9848,12 @@
   "minecraft:recipes/building_blocks/ice_from_freezing": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-02 22:04:10 +0000"
     },
     "done": true
   },
@@ -15587,6 +15629,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 22:05:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_kitchen_drawer": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
@@ -16225,7 +16273,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "shrubland": "2025-05-02 21:53:03 +0000"
+      "shrubland": "2025-05-02 21:53:03 +0000",
+      "dryland": "2025-05-02 21:59:46 +0000",
+      "shrubland_hills": "2025-05-02 21:59:28 +0000"
     },
     "done": false
   },
@@ -17810,6 +17860,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-02 22:04:32 +0000"
     },
     "done": true
   },
@@ -23249,6 +23305,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-02 22:04:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -23284,6 +23346,15 @@
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-05-02 21:59:26 +0000",
+      "minecraft:savanna_plateau": "2025-05-02 21:59:14 +0000",
+      "minecraft:river": "2025-05-02 21:59:42 +0000",
+      "minecraft:savanna": "2025-05-02 21:59:06 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/jungle_kitchen_counter": {
     "criteria": {
@@ -23360,6 +23431,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "electrodynamics:root": {
+    "criteria": {
+      "HasCraftingTable": "2025-05-02 22:02:28 +0000"
     },
     "done": true
   },
@@ -23956,6 +24033,12 @@
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-02 22:04:32 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
@@ -24764,6 +24847,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-02 22:02:28 +0000"
     },
     "done": true
   },
