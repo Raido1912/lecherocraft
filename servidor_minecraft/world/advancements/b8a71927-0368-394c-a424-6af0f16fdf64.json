@@ -1859,6 +1859,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-02 22:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -3482,6 +3488,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_brick_slab_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 22:10:57 +0000"
     },
     "done": true
   },
@@ -7535,6 +7547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 22:07:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -8498,6 +8516,12 @@
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-05-02 22:12:59 +0000"
     },
     "done": true
   },
@@ -11921,6 +11945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 22:07:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -13907,6 +13937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 22:07:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_palm_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
@@ -14186,6 +14222,12 @@
   "mysticalworld:recipes/mysticalworld/mud_brick_wall_from_mud_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 22:07:38 +0000"
     },
     "done": true
   },
@@ -20377,6 +20419,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-05-02 22:12:58 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/bloodshroom/log_to_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -21148,6 +21196,12 @@
   "mysticalworld:recipes/mysticalworld/ingots_lead_to_9_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-02 22:07:53 +0000"
     },
     "done": true
   },
@@ -24373,6 +24427,12 @@
   "framedblocks:recipes/framed_blocks/framed_slope_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 22:07:38 +0000"
     },
     "done": true
   },

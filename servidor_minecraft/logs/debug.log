@@ -13079,3 +13079,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 22:07:11.142] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [02May2025 22:07:38.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Stone Age]
 [02May2025 22:07:53.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Getting an Upgrade]
+[02May2025 22:10:57.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Sweet Dreams]
+[02May2025 22:12:11.157] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 22:12:11.180] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 22:12:59.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Shocking]
+[02May2025 22:14:05.927] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@144b5866
+[02May2025 22:17:07.112] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID afc4e648-3c7f-4a43-b279-5428be7f63b0. Existing minecraft:skeleton#4930, new: minecraft:skeleton#4930
+[02May2025 22:17:11.071] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 22:17:11.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 22:19:04.671] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/5159, l='ServerLevel[world]', x=-289.38, y=34.43, z=-278.32]
+[02May2025 22:19:04.671] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/5166, l='ServerLevel[world]', x=-289.75, y=34.44, z=-277.34]
+[02May2025 22:19:04.671] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/5168, l='ServerLevel[world]', x=-289.41, y=33.71, z=-278.48]
+[02May2025 22:19:04.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/5169, l='ServerLevel[world]', x=-290.49, y=32.52, z=-279.63]
+[02May2025 22:19:04.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/5170, l='ServerLevel[world]', x=-290.61, y=33.45, z=-279.44]
+[02May2025 22:19:04.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/5171, l='ServerLevel[world]', x=-288.42, y=32.39, z=-281.31]
+[02May2025 22:19:04.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/5172, l='ServerLevel[world]', x=-290.38, y=32.29, z=-280.35]
+[02May2025 22:19:04.673] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/5173, l='ServerLevel[world]', x=-290.54, y=32.36, z=-277.72]
+[02May2025 22:19:04.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/5174, l='ServerLevel[world]', x=-290.67, y=32.64, z=-278.25]
+[02May2025 22:19:04.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/5175, l='ServerLevel[world]', x=-290.35, y=33.47, z=-276.25]
+[02May2025 22:19:04.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/5176, l='ServerLevel[world]', x=-290.29, y=32.52, z=-276.26]
+[02May2025 22:19:04.675] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/5177, l='ServerLevel[world]', x=-287.72, y=33.60, z=-279.73]
+[02May2025 22:19:04.675] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/5178, l='ServerLevel[world]', x=-289.54, y=33.64, z=-276.37]
+[02May2025 22:19:05.597] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lead Ore'/5232, l='ServerLevel[world]', x=-285.47, y=31.59, z=-277.73]
+[02May2025 22:19:06.040] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/5267, l='ServerLevel[world]', x=-290.65, y=29.40, z=-276.53]
+[02May2025 22:19:06.040] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/5268, l='ServerLevel[world]', x=-290.43, y=30.28, z=-281.59]
+[02May2025 22:19:06.041] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Tin Ore'/5269, l='ServerLevel[world]', x=-292.59, y=29.72, z=-278.67]
+[02May2025 22:19:06.041] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/5270, l='ServerLevel[world]', x=-289.67, y=31.55, z=-283.69]
+[02May2025 22:19:06.041] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/5271, l='ServerLevel[world]', x=-291.54, y=30.43, z=-275.56]
