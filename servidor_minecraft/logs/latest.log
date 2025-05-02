@@ -5341,3 +5341,44 @@ java.lang.NullPointerException: null
 [02May2025 03:09:25.568] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
 [02May2025 03:09:28.449] [Server thread/INFO] [tac/]: PENDING
 [02May2025 03:09:52.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to totato]
+[02May2025 03:10:51.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Knowledge of Death]
+[02May2025 03:10:51.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Easter Food]
+[02May2025 03:11:04.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Stone Age]
+[02May2025 03:11:34.810] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/10722, l='ServerLevel[world]', x=-369.30, y=16.56, z=-142.68]
+[02May2025 03:11:34.810] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Deepslate'/10723, l='ServerLevel[world]', x=-372.73, y=17.41, z=-138.44]
+[02May2025 03:11:34.810] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/10724, l='ServerLevel[world]', x=-371.40, y=21.65, z=-140.66]
+[02May2025 03:11:34.810] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Clay Ball'/10725, l='ServerLevel[world]', x=-370.39, y=22.55, z=-138.50]
+[02May2025 03:11:34.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/10726, l='ServerLevel[world]', x=-367.34, y=15.36, z=-140.62]
+[02May2025 03:11:34.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/10727, l='ServerLevel[world]', x=-371.53, y=20.57, z=-139.69]
+[02May2025 03:11:34.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/10728, l='ServerLevel[world]', x=-370.55, y=15.62, z=-139.70]
+[02May2025 03:11:34.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Basalt'/10729, l='ServerLevel[world]', x=-366.46, y=17.46, z=-141.44]
+[02May2025 03:11:34.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/10730, l='ServerLevel[world]', x=-371.63, y=18.32, z=-138.26]
+[02May2025 03:11:34.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/10731, l='ServerLevel[world]', x=-367.72, y=19.63, z=-140.42]
+[02May2025 03:11:34.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/10732, l='ServerLevel[world]', x=-370.44, y=16.69, z=-138.34]
+[02May2025 03:11:34.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/10733, l='ServerLevel[world]', x=-371.25, y=18.55, z=-137.42]
+[02May2025 03:11:34.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/10734, l='ServerLevel[world]', x=-368.44, y=19.67, z=-137.62]
+[02May2025 03:11:34.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/10735, l='ServerLevel[world]', x=-371.58, y=21.36, z=-139.61]
+[02May2025 03:11:34.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/10736, l='ServerLevel[world]', x=-370.25, y=16.68, z=-142.58]
+[02May2025 03:11:34.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/10737, l='ServerLevel[world]', x=-368.40, y=15.42, z=-141.40]
+[02May2025 03:11:35.298] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/10772, l='ServerLevel[world]', x=-372.60, y=15.41, z=-141.30]
+[02May2025 03:11:35.298] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/10773, l='ServerLevel[world]', x=-368.67, y=15.47, z=-143.42]
+[02May2025 03:12:20.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Getting an Upgrade]
+[02May2025 03:12:26.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzzzzzzzz
+[02May2025 03:13:10.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02May2025 03:14:35.778] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/1316, l='ServerLevel[world]', x=-273.28, y=63.00, z=-297.50] died, message: 'Farmer was slain by Grave Robber'
+[02May2025 03:14:51.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@fb8999b
+[02May2025 03:14:51.134] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 03:14:51.219] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 03:14:51.220] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Alpha_235[/127.21.110.24:43335] logged in with entity id 13888 at (13.906337774212517, 69.0, -12.32912846271145)
+[02May2025 03:14:51.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alpha_235 joined the game
+[02May2025 03:14:51.227] [Server thread/INFO] [tac/]: PENDING
+[02May2025 03:14:51.274] [Server thread/INFO] [Waila/]: Syncing config to Alpha_235 (b6e26aa8-ce8b-37eb-b1d3-dfdd2b25bc2f)
+[02May2025 03:15:03.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Oasins: Teleported Oasins to Rukasu2903]
+[02May2025 03:15:06.381] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Alpha_235 lost connection: Timed out
+[02May2025 03:15:06.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alpha_235 left the game
+[02May2025 03:15:34.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was burnt to a crisp whilst fighting Fire Dragon
+[02May2025 03:15:34.571] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[02May2025 03:15:36.157] [Server thread/INFO] [tac/]: PENDING
+[02May2025 03:16:25.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Electrodynamics]
+[02May2025 03:18:11.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[02May2025 03:20:41.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Silent Chills]

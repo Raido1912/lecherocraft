@@ -3691,6 +3691,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-05-02 03:09:54 +0000",
       "minecraft:zombie": "2025-05-02 03:01:24 +0000"
     },
     "done": false
@@ -16381,8 +16382,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "seasonal_pumpkin_patch": "2025-05-02 03:13:05 +0000",
       "shrubland": "2025-05-02 02:43:25 +0000",
+      "lush_savanna": "2025-05-02 03:14:54 +0000",
       "dryland": "2025-05-02 03:04:52 +0000",
+      "wasteland": "2025-05-02 03:15:03 +0000",
+      "lush_desert": "2025-05-02 03:15:48 +0000",
+      "seasonal_forest": "2025-05-02 03:13:02 +0000",
       "shrubland_hills": "2025-05-02 02:48:43 +0000"
     },
     "done": false
@@ -23511,7 +23517,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-02 03:13:14 +0000",
       "minecraft:birch_forest": "2025-05-02 03:05:09 +0000",
+      "minecraft:savanna_plateau": "2025-05-02 03:16:51 +0000",
       "minecraft:river": "2025-05-02 02:53:13 +0000",
       "minecraft:savanna": "2025-05-02 03:00:01 +0000"
     },
@@ -24191,7 +24199,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-02 02:55:15 +0000"
+      "cooked_mutton": "2025-05-02 03:10:33 +0000",
+      "bread": "2025-05-02 02:55:15 +0000",
+      "carrot": "2025-05-02 03:10:01 +0000"
     },
     "done": false
   },

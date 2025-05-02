@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -1880,6 +1886,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-02 03:11:04 +0000"
     },
     "done": true
   },
@@ -5405,6 +5417,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 03:10:51 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs_stonecutter": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -6869,6 +6887,12 @@
     },
     "done": true
   },
+  "electrodynamics:ores": {
+    "criteria": {
+      "HasWoodenPickaxe": "2025-05-02 03:10:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_prismarine_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -7568,6 +7592,12 @@
   "securitycraft:recipes/securitycraft/reinforced_blue_ice": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 03:11:04 +0000"
     },
     "done": true
   },
@@ -8276,6 +8306,12 @@
   "farmersdelight:recipes/farmersdelight/dark_oak_pantry": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 03:10:51 +0000"
     },
     "done": true
   },
@@ -11969,6 +12005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 03:11:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -13955,6 +13997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 03:11:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
@@ -14246,6 +14294,12 @@
   "mysticalworld:recipes/mysticalworld/mud_brick_wall_from_mud_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 03:11:04 +0000"
     },
     "done": true
   },
@@ -17921,6 +17975,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-02 03:10:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
@@ -21239,6 +21299,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-02 03:12:20 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/choco_disguise_leggings": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -23515,6 +23581,12 @@
     },
     "done": true
   },
+  "electrodynamics:root": {
+    "criteria": {
+      "HasCraftingTable": "2025-05-02 03:16:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -24103,6 +24175,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-05-02 03:10:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -24442,6 +24520,12 @@
   "framedblocks:recipes/framed_blocks/framed_slope_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 03:11:04 +0000"
     },
     "done": true
   },
@@ -24934,6 +25018,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-02 03:16:24 +0000"
     },
     "done": true
   },
