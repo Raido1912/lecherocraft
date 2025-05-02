@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-02 00:12:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:47:24 +0000"
@@ -1720,9 +1726,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-28 00:51:46 +0000",
+      "extreme_hills_with_trees": "2025-05-02 00:16:57 +0000",
       "forest_hills": "2025-04-28 00:47:24 +0000",
       "plains": "2025-04-28 00:51:31 +0000",
-      "river": "2025-04-28 00:58:17 +0000"
+      "taiga": "2025-05-02 00:18:16 +0000",
+      "extreme_hills": "2025-05-02 00:11:56 +0000",
+      "river": "2025-04-28 00:58:17 +0000",
+      "stone_beach": "2025-05-02 00:22:07 +0000"
     },
     "done": false
   },
@@ -2491,6 +2501,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-04-29 02:21:49 +0000",
+      "apple": "2025-05-02 00:14:12 +0000",
       "potato": "2025-04-28 00:59:40 +0000",
       "beetroot": "2025-04-28 00:57:38 +0000",
       "carrot": "2025-04-28 00:53:55 +0000"
@@ -4123,6 +4134,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-28 00:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-02 00:13:45 +0000"
     },
     "done": true
   },
