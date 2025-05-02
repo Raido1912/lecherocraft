@@ -13106,3 +13106,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 22:19:06.041] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Tin Ore'/5269, l='ServerLevel[world]', x=-292.59, y=29.72, z=-278.67]
 [02May2025 22:19:06.041] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/5270, l='ServerLevel[world]', x=-289.67, y=31.55, z=-283.69]
 [02May2025 22:19:06.041] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/5271, l='ServerLevel[world]', x=-291.54, y=30.43, z=-275.56]
+[02May2025 22:22:05.929] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity ars_nouveau:summon_wolf
+[02May2025 22:22:05.929] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity ars_nouveau:summon_wolf
+[02May2025 22:22:11.043] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 22:22:11.065] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 22:27:11.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 22:27:11.161] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 22:27:45.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Lepidolite Ore]
+[02May2025 22:28:09.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Acquire Hardware]
