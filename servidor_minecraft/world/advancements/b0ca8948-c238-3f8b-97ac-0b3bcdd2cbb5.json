@@ -8612,6 +8612,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-05-02 22:56:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/conversions/purple_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -20616,6 +20622,12 @@
   "botania:recipes/botania/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-05-02 22:56:51 +0000"
     },
     "done": true
   },
