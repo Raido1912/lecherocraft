@@ -1583,6 +1583,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2025-05-02 22:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
@@ -13757,6 +13763,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-02 22:31:52 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -15746,6 +15758,12 @@
   "bloodmagic:recipes/misc/smelting/ingot_netherite_scrap": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-02 22:28:09 +0000"
     },
     "done": true
   },
@@ -23821,6 +23839,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "electrodynamics:raworelithium": {
+    "criteria": {
+      "HasRawOre": "2025-05-02 22:27:45 +0000"
     },
     "done": true
   },

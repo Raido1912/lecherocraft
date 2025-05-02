@@ -13114,3 +13114,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 22:27:11.161] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [02May2025 22:27:45.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Lepidolite Ore]
 [02May2025 22:28:09.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Acquire Hardware]
+[02May2025 22:31:52.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Isn't It Iron Pick]
+[02May2025 22:32:11.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 22:32:11.040] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 22:37:11.198] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02May2025 22:37:11.215] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02May2025 22:37:40.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Blood Feeders' Home]
+[02May2025 22:37:56.809] [Worker-Main-13/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[02May2025 22:37:56.825] [Worker-Main-13/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
