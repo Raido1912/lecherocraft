@@ -8149,6 +8149,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 04:38:34 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"
@@ -11584,6 +11590,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/tinkers_bronze_nugget_from_ingot": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 04:38:34 +0000"
     },
     "done": true
   },

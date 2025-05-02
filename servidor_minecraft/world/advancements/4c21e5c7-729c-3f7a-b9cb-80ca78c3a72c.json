@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 04:35:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_nether_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:55 +0000"
@@ -1598,6 +1604,12 @@
   "cfm:recipes/cfm/oak_crate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2025-05-02 04:34:07 +0000"
     },
     "done": true
   },
@@ -5497,6 +5509,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-02 04:32:50 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
@@ -8986,6 +9004,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-02 04:31:50 +0000"
     },
     "done": true
   },
@@ -15811,6 +15835,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-02 04:34:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/travel_belt": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:55 +0000"
@@ -18588,6 +18618,12 @@
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:54 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/glowshroom": {
+    "criteria": {
+      "has_item": "2025-05-02 04:30:57 +0000"
     },
     "done": true
   },
@@ -22359,6 +22395,12 @@
     },
     "done": true
   },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-05-02 04:34:37 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
@@ -23507,6 +23549,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-05-02 04:31:28 +0000",
       "minecraft:savanna": "2025-05-02 03:51:14 +0000"
     },
     "done": false
@@ -23586,6 +23629,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-02 04:32:50 +0000"
     },
     "done": true
   },

@@ -3803,3 +3803,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 04:31:56.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko was slain by Crocodile
 [02May2025 04:31:56.629] [Server thread/INFO] [tombstone/]: The player JsOPsiko has successfully been saved
 [02May2025 04:31:57.920] [Server thread/INFO] [tac/]: PENDING
+[02May2025 04:32:50.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [A Seedy Place]
+[02May2025 04:34:07.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Acquire Hardware]
+[02May2025 04:34:37.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Blood Feeders' Home]
+[02May2025 04:35:07.959] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/1421, l='ServerLevel[world]', x=-659.19, y=63.00, z=-631.54] died, message: 'Farmer was slain by JsOPsiko'
+[02May2025 04:35:07.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Neighborhood Brawl]
+[02May2025 04:35:08.448] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Priest'/897, l='ServerLevel[world]', x=59.85, y=70.00, z=-134.58] died, message: 'Priest was slain by Vampire Hunter'
+[02May2025 04:35:13.951] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Vampire Expert'/894, l='ServerLevel[world]', x=46.16, y=68.00, z=-129.12] died, message: 'Vampire Expert was slain by Vampire Hunter'
+[02May2025 04:35:15.950] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Mason'/917, l='ServerLevel[world]', x=93.29, y=72.00, z=-140.30] died, message: 'Mason was slain by Vampire Hunter'
+[02May2025 04:35:22.163] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/1591, l='ServerLevel[world]', x=-664.51, y=64.00, z=-629.78] died, message: 'Nitwit was slain by JsOPsiko'
+[02May2025 04:35:22.347] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Librarian'/880, l='ServerLevel[world]', x=41.30, y=67.00, z=-121.52] died, message: 'Librarian was slain by Vampire Hunter'
+[02May2025 04:35:33.948] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Leatherworker'/904, l='ServerLevel[world]', x=117.47, y=66.00, z=-154.67] died, message: 'Leatherworker was slain by Vampire Hunter'
+[02May2025 04:36:07.150] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Farmer'/878, l='ServerLevel[world]', x=8.40, y=64.94, z=-137.50] died, message: 'Farmer was slain by Vampire Hunter'
+[02May2025 04:36:24.296] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Nitwit'/869, l='ServerLevel[world]', x=-29.69, y=64.00, z=-91.57] died, message: 'Nitwit was slain by Vampire Hunter'
+[02May2025 04:36:31.847] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Scribe'/870, l='ServerLevel[world]', x=-8.67, y=64.00, z=-123.30] died, message: 'Scribe was slain by Vampire Hunter'
+[02May2025 04:36:44.592] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Farmer'/884, l='ServerLevel[world]', x=11.30, y=64.00, z=-94.28] died, message: 'Farmer was slain by Vampire Hunter'
+[02May2025 04:36:50.548] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Cleric'/881, l='ServerLevel[world]', x=5.45, y=65.00, z=-91.31] died, message: 'Cleric was slain by Vampire Hunter'
+[02May2025 04:38:34.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has reached the goal [Strong or Careful]
+[02May2025 04:38:34.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was shot by Skeleton
+[02May2025 04:38:34.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Your First Grave]
+[02May2025 04:38:34.873] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 04:38:59.329] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 5bb02c85-a2db-4a25-aa40-12138ab1bb7c. Existing minecraft:zombie#4971, new: minecraft:zombie#4971
+[02May2025 04:40:12.598] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Farmer'/893, l='ServerLevel[world]', x=15.74, y=64.00, z=-98.26] died, message: 'Farmer was shot by Vampire Hunter'
+[02May2025 04:40:19.188] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02May2025 04:41:07.975] [Server thread/INFO] [tac/]: PENDING
+[02May2025 04:42:17.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko burned to death
+[02May2025 04:42:17.875] [Server thread/INFO] [tombstone/]: The player JsOPsiko has successfully been saved
+[02May2025 04:42:21.460] [Server thread/INFO] [tac/]: PENDING
+[02May2025 04:42:49.802] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Disconnected
+[02May2025 04:42:49.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
