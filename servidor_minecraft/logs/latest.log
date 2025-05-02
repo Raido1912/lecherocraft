@@ -3832,3 +3832,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 04:42:21.460] [Server thread/INFO] [tac/]: PENDING
 [02May2025 04:42:49.802] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Disconnected
 [02May2025 04:42:49.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[02May2025 04:44:24.329] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/6187, l='ServerLevel[world]', x=-674.37, y=28.41, z=-609.73]
+[02May2025 04:44:24.329] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/6188, l='ServerLevel[world]', x=-674.28, y=28.51, z=-608.73]
+[02May2025 04:44:24.330] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rail'/6190, l='ServerLevel[world]', x=-676.43, y=28.39, z=-610.75]
+[02May2025 04:44:24.330] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rail'/6192, l='ServerLevel[world]', x=-675.42, y=28.71, z=-610.38]
+[02May2025 04:44:24.330] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/6194, l='ServerLevel[world]', x=-673.60, y=25.34, z=-608.73]
+[02May2025 04:44:24.330] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/6195, l='ServerLevel[world]', x=-675.30, y=27.65, z=-606.33]
+[02May2025 04:44:24.331] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/6196, l='ServerLevel[world]', x=-677.70, y=26.70, z=-606.36]
+[02May2025 04:44:24.331] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/6197, l='ServerLevel[world]', x=-677.44, y=26.45, z=-608.70]
+[02May2025 04:44:24.331] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/6198, l='ServerLevel[world]', x=-673.58, y=26.44, z=-608.25]
+[02May2025 04:44:24.331] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/6199, l='ServerLevel[world]', x=-673.63, y=26.30, z=-606.68]
+[02May2025 04:44:24.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/6200, l='ServerLevel[world]', x=-676.26, y=26.48, z=-606.35]
+[02May2025 04:44:24.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/6201, l='ServerLevel[world]', x=-673.32, y=27.60, z=-609.26]
+[02May2025 04:44:24.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/6202, l='ServerLevel[world]', x=-677.70, y=26.40, z=-609.31]
+[02May2025 04:44:25.019] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/6223, l='ServerLevel[world]', x=-675.61, y=27.45, z=-604.28]
+[02May2025 04:44:25.020] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/6224, l='ServerLevel[world]', x=-671.68, y=26.68, z=-605.41]
+[02May2025 04:44:25.020] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Clay Ball'/6225, l='ServerLevel[world]', x=-674.28, y=27.75, z=-604.28]
+[02May2025 04:44:25.020] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Uranium Ore'/6226, l='ServerLevel[world]', x=-675.26, y=28.59, z=-605.35]
+[02May2025 04:44:25.021] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/6227, l='ServerLevel[world]', x=-677.39, y=25.61, z=-607.31]
+[02May2025 04:44:25.021] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/6228, l='ServerLevel[world]', x=-677.47, y=29.71, z=-607.42]
+[02May2025 04:44:25.021] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Fence'/6229, l='ServerLevel[world]', x=-677.41, y=29.29, z=-609.40]
+[02May2025 04:44:25.021] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/6230, l='ServerLevel[world]', x=-676.63, y=27.45, z=-604.35]
+[02May2025 04:44:25.155] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/6245, l='ServerLevel[world]', x=-673.74, y=29.70, z=-608.60]
+[02May2025 04:44:34.133] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 56d14581-d8e7-4b68-8bcc-2b777a54f2fe. Existing minecraft:skeleton#6298, new: minecraft:skeleton#6298
+[02May2025 04:45:19.637] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@12bb50b8
+[02May2025 04:45:19.721] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 04:45:19.771] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02May2025 04:45:19.772] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:60737] logged in with entity id 6453 at (-669.320452059908, 64.25220334025373, -545.4124398009802)
+[02May2025 04:45:19.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[02May2025 04:45:19.780] [Server thread/INFO] [tac/]: PENDING
+[02May2025 04:45:19.825] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[02May2025 04:48:22.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Isn't It Iron Pick]
+[02May2025 04:50:00.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko was slain by Summoned Wolf
+[02May2025 04:50:00.047] [Server thread/INFO] [tombstone/]: The player JsOPsiko has successfully been saved
+[02May2025 04:50:01.762] [Server thread/INFO] [tac/]: PENDING
+[02May2025 04:51:59.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by Ice Dragon
+[02May2025 04:51:59.370] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[02May2025 04:52:01.267] [Server thread/INFO] [tac/]: PENDING
