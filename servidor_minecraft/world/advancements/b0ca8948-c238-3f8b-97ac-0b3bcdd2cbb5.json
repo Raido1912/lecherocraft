@@ -3723,6 +3723,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-02 04:18:58 +0000",
       "minecraft:spider": "2025-05-02 03:09:54 +0000",
+      "minecraft:creeper": "2025-05-02 04:56:36 +0000",
       "minecraft:zombie": "2025-05-02 03:01:24 +0000"
     },
     "done": false
@@ -24872,6 +24873,12 @@
   "vampirism:recipes/vampirism/alchemy_table/evasion_oil": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 04:55:37 +0000"
     },
     "done": true
   },

@@ -3869,3 +3869,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [02May2025 04:51:59.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned to ice by Ice Dragon
 [02May2025 04:51:59.370] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
 [02May2025 04:52:01.267] [Server thread/INFO] [tac/]: PENDING
+[02May2025 04:53:42.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzzzzzzzzzzzzzzzz
+[02May2025 04:54:46.331] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID f16b3915-d6b8-4d3c-82a2-a717d1110672. Existing mod_lavacow:raven#10219, new: mod_lavacow:raven#10219
+[02May2025 04:55:37.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Ashes 'n Bones]
+[02May2025 04:55:59.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Diamonds!]
+[02May2025 04:59:06.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Thorianite Ore]
+[02May2025 05:02:12.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Me Eat Dead People]
+[02May2025 05:02:19.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Cover Me With Diamonds]
+[02May2025 05:03:07.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Serendipitous Sapphires]

@@ -6901,6 +6901,12 @@
     },
     "done": true
   },
+  "electrodynamics:ores": {
+    "criteria": {
+      "HasWoodenPickaxe": "2025-05-02 04:51:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_prismarine_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:52 +0000"
@@ -8218,6 +8224,12 @@
   "vampirism:recipes/vampirism/weapontable/enhanced_crossbow": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:54 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2025-05-02 04:55:59 +0000"
     },
     "done": true
   },
@@ -11797,6 +11809,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-02 04:55:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/teru_teru_bozu": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
@@ -13030,6 +13048,12 @@
   "botania:recipes/botania/cosmetic_black_tie": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "electrodynamics:raworethorium": {
+    "criteria": {
+      "HasRawOre": "2025-05-02 04:59:06 +0000"
     },
     "done": true
   },
