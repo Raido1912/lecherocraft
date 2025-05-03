@@ -4267,6 +4267,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-03 01:50:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_forest_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -6804,6 +6810,12 @@
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-03 01:50:05 +0000"
+    },
+    "done": false
   },
   "botania:recipes/botania/pattern_1_2": {
     "criteria": {
@@ -15757,6 +15769,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_mimic": {
+    "criteria": {
+      "killed": "2025-05-03 01:49:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -22352,6 +22370,13 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-03 01:50:38 +0000",
+      "in_better_spider_dungeon": "2025-05-03 01:43:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -24260,7 +24285,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-02 22:04:32 +0000"
+      "bread": "2025-05-02 22:04:32 +0000",
+      "enchanted_golden_apple": "2025-05-03 01:50:46 +0000"
     },
     "done": false
   },
@@ -24777,6 +24803,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-03 01:43:51 +0000"
     },
     "done": true
   },
