@@ -14539,3 +14539,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 00:01:58.067] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 8f682c27-3b54-4e2e-8a7f-f8d253983555. Existing mod_lavacow:raven#24502, new: mod_lavacow:raven#24502
 [03May2025 00:02:11.307] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03May2025 00:02:11.329] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 00:07:11.429] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 00:07:11.447] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 00:08:16.285] [Server thread/DEBUG] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Initiated capture with strength 0.33333334 by vampirism:vampire at BlockPos{x=44, y=70, z=-135} with badomen level 0
+[03May2025 00:10:05.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> duerme canalla
+[03May2025 00:10:10.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> void
+[03May2025 00:10:22.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzz
+[03May2025 00:12:11.360] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 00:12:11.379] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
