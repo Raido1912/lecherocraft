@@ -2,3 +2,6 @@
 [03May2025 00:10:05.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> duerme canalla
 [03May2025 00:10:10.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> void
 [03May2025 00:10:22.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzz
+[03May2025 00:18:48.125] [Server thread/WARN] [de.teamlapen.vampirism.entity.converted.ConvertedCreatureEntity/]: Saved entity did not have a old entity
+[03May2025 00:21:42.662] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ba67b1fa-a5d4-41b5-9f19-ce9d0564d43f. Existing mod_lavacow:raven#27452, new: mod_lavacow:raven#27452
+[03May2025 00:23:12.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzzz
