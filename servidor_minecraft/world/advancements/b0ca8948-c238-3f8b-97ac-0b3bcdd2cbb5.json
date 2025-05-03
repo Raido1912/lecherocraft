@@ -5540,6 +5540,15 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-05-03 00:48:12 +0000",
+      "potato": "2025-05-03 00:50:10 +0000",
+      "wheat": "2025-05-03 00:44:42 +0000",
+      "carrot": "2025-05-03 00:47:41 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
@@ -23742,6 +23751,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-03 00:44:42 +0000"
     },
     "done": true
   },

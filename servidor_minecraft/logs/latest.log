@@ -23,3 +23,5 @@
 [03May2025 00:40:09.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> afuera hay una amarrilla
 [03May2025 00:41:41.080] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 63142e0e-2097-485d-82b1-32be45ff5840. Existing minecraft:zombie#32273, new: minecraft:zombie#32273
 [03May2025 00:41:54.400] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 19172
+[03May2025 00:44:42.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [A Seedy Place]
+[03May2025 00:53:08.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzzzzzzzzzzzzzzzzzz
