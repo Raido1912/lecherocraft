@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "mysticalworld:aubergine": {
+    "criteria": {
+      "book": "2025-05-03 01:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"

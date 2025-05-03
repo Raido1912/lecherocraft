@@ -62,3 +62,6 @@
 [03May2025 01:24:31.698] [Server thread/INFO] [tac/]: PENDING
 [03May2025 01:24:31.750] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
 [03May2025 01:24:55.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Bat Mode]
+[03May2025 01:29:30.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Diamonds!]
+[03May2025 01:30:28.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [That's No Carrot...]
+[03May2025 01:34:46.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Raw Vanadinite]

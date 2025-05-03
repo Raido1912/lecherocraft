@@ -17106,3 +17106,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 01:24:31.738] [Server thread/DEBUG] [twilightforest/]: Player kitsette (075e19b5-ee87-36a3-9437-3acf23b3f13a) respawned and received items held in storage
 [03May2025 01:24:31.750] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
 [03May2025 01:24:55.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Bat Mode]
+[03May2025 01:27:11.516] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 01:27:11.534] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 01:29:30.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Diamonds!]
+[03May2025 01:30:28.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [That's No Carrot...]
+[03May2025 01:32:11.715] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 01:32:11.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 01:34:46.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Raw Vanadinite]

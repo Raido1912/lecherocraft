@@ -8215,6 +8215,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2025-05-03 01:29:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -11581,6 +11587,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "action": "2025-05-03 01:24:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/floating_hydroangeas": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -11776,6 +11788,12 @@
   "botania:recipes/botania/floating_rafflowsia": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-03 01:29:30 +0000"
     },
     "done": true
   },
