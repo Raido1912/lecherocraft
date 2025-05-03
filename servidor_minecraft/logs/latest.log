@@ -3776,3 +3776,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 23:14:49.023] [Server thread/INFO] [tac/]: PENDING
 [03May2025 23:14:49.158] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
 [03May2025 23:14:49.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has reached the goal [Heliomancer]
+[03May2025 23:19:03.407] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
