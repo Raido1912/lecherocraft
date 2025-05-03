@@ -1583,6 +1583,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2025-05-03 03:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
@@ -15764,6 +15770,12 @@
   "bloodmagic:recipes/misc/smelting/ingot_netherite_scrap": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-03 03:33:27 +0000"
     },
     "done": true
   },

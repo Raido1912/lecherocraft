@@ -3791,3 +3791,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 03:06:20.756] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
 [03May2025 03:07:19.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Isn't It Iron Pick]
 [03May2025 03:07:28.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[03May2025 03:30:08.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Creative Mode]
+[03May2025 03:33:27.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Acquire Hardware]
+[03May2025 03:33:34.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[03May2025 03:34:21.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 9    [Gold Ingot] to Rukasu2903]
