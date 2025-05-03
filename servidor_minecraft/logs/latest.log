@@ -11,3 +11,15 @@
 [03May2025 00:26:35.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> oye we y los animales?
 [03May2025 00:26:46.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Estoy haciendo mi casa we
 [03May2025 00:26:54.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> no mobs?
+[03May2025 00:34:53.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> wait a second
+[03May2025 00:34:59.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Creative Mode]
+[03May2025 00:35:17.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Survival Mode]
+[03May2025 00:35:23.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> nop no funciona pipipipi
+[03May2025 00:36:03.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> oye we traes cuero?
+[03May2025 00:36:07.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> no se we
+[03May2025 00:39:44.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzz
+[03May2025 00:39:49.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> void
+[03May2025 00:40:02.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> no tengo cama
+[03May2025 00:40:09.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> afuera hay una amarrilla
+[03May2025 00:41:41.080] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 63142e0e-2097-485d-82b1-32be45ff5840. Existing minecraft:zombie#32273, new: minecraft:zombie#32273
+[03May2025 00:41:54.400] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 19172
