@@ -7351,6 +7351,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-05-03 00:30:59 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -16389,8 +16395,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-03 00:29:36 +0000",
       "shrubland": "2025-05-02 21:53:03 +0000",
       "dryland": "2025-05-02 21:59:46 +0000",
+      "dense_woodland": "2025-05-03 00:30:29 +0000",
       "shrubland_hills": "2025-05-02 21:59:28 +0000",
       "burnt_forest": "2025-05-02 23:08:27 +0000"
     },
@@ -23523,7 +23531,8 @@
       "minecraft:birch_forest": "2025-05-02 21:59:26 +0000",
       "minecraft:savanna_plateau": "2025-05-02 21:59:14 +0000",
       "minecraft:river": "2025-05-02 21:59:42 +0000",
-      "minecraft:savanna": "2025-05-02 21:59:06 +0000"
+      "minecraft:savanna": "2025-05-02 21:59:06 +0000",
+      "minecraft:plains": "2025-05-03 00:31:27 +0000"
     },
     "done": false
   },
