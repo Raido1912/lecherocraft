@@ -1322,7 +1322,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-02 05:54:26 +0000",
-      "minecraft:warped_forest": "2025-05-02 05:27:51 +0000"
+      "minecraft:warped_forest": "2025-05-02 05:27:51 +0000",
+      "minecraft:basalt_deltas": "2025-05-03 23:51:33 +0000"
     },
     "done": false
   },

@@ -3778,3 +3778,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 23:14:49.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has reached the goal [Heliomancer]
 [03May2025 23:19:03.407] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
 [03May2025 23:39:21.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Vampire Diaries]
+[03May2025 23:49:15.745] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71378369
+[03May2025 23:49:15.830] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03May2025 23:49:15.868] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03May2025 23:49:15.869] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:49331] logged in with entity id 5611 at (-785.0115340715665, 44.7531999805212, -196.25851662513688)
+[03May2025 23:49:15.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[03May2025 23:49:15.880] [Server thread/INFO] [tac/]: PENDING
+[03May2025 23:49:15.916] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[03May2025 23:49:16.615] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[03May2025 23:54:06.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko tried to swim in lava to escape Bone Serpent
+[03May2025 23:54:06.386] [Server thread/INFO] [tombstone/]: The player JsOPsiko has successfully been saved
+[03May2025 23:54:07.958] [Server thread/INFO] [tac/]: PENDING
+[03May2025 23:54:56.164] [Server thread/INFO] [tac/]: PENDING
