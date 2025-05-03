@@ -4847,6 +4847,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_graverobber": {
+    "criteria": {
+      "killed": "2025-05-03 01:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:15 +0000"
@@ -16339,7 +16345,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "shrubland": "2025-05-02 05:28:18 +0000"
+      "shrubland": "2025-05-02 05:28:18 +0000",
+      "dryland": "2025-05-03 01:37:20 +0000",
+      "dry_boneyard": "2025-05-03 01:37:28 +0000"
     },
     "done": false
   },
@@ -20651,6 +20659,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 01:38:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/alfheim_portal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:17 +0000"
@@ -21200,6 +21214,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-05-02 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/intestine": {
+    "criteria": {
+      "has_item": "2025-05-03 01:41:32 +0000"
     },
     "done": true
   },
@@ -24147,7 +24167,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2025-05-03 01:23:49 +0000",
-      "bread": "2025-05-02 05:36:00 +0000"
+      "bread": "2025-05-02 05:36:00 +0000",
+      "carrot": "2025-05-03 01:36:55 +0000"
     },
     "done": false
   },

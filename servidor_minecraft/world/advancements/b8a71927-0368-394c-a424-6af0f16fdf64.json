@@ -21074,6 +21074,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworevanadium": {
+    "criteria": {
+      "HasRawOre": "2025-05-03 01:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"

@@ -17113,3 +17113,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 01:32:11.715] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03May2025 01:32:11.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [03May2025 01:34:46.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Raw Vanadinite]
+[03May2025 01:37:11.522] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 01:37:11.541] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 01:38:04.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Ambush]
+[03May2025 01:38:04.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [When Johnny Gets a Shovel]
+[03May2025 01:39:36.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette tried to swim in lava
+[03May2025 01:39:36.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player kitsette was created at position [x:-207, y:59, z:-574, dim:minecraft:overworld]
+[03May2025 01:39:36.861] [Server thread/INFO] [tombstone/]: The player kitsette has successfully been saved
+[03May2025 01:39:38.150] [Server thread/INFO] [tac/]: PENDING
+[03May2025 01:39:38.188] [Server thread/DEBUG] [twilightforest/]: Player kitsette (075e19b5-ee87-36a3-9437-3acf23b3f13a) respawned and received items held in storage
+[03May2025 01:41:41.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette tried to swim in lava
+[03May2025 01:41:41.401] [Server thread/INFO] [tombstone/]: The player kitsette has successfully been saved
+[03May2025 01:41:42.902] [Server thread/INFO] [tac/]: PENDING
+[03May2025 01:41:42.935] [Server thread/DEBUG] [twilightforest/]: Player kitsette (075e19b5-ee87-36a3-9437-3acf23b3f13a) respawned and received items held in storage
+[03May2025 01:42:11.690] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 01:42:11.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 01:42:51.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette tried to swim in lava
+[03May2025 01:42:51.014] [Server thread/DEBUG] [tombstone/]: A new grave of the player kitsette was created at position [x:-207, y:59, z:-574, dim:minecraft:overworld]
+[03May2025 01:42:51.073] [Server thread/INFO] [tombstone/]: The player kitsette has successfully been saved
+[03May2025 01:42:52.196] [Server thread/INFO] [tac/]: PENDING
+[03May2025 01:42:52.234] [Server thread/DEBUG] [twilightforest/]: Player kitsette (075e19b5-ee87-36a3-9437-3acf23b3f13a) respawned and received items held in storage
+[03May2025 01:43:44.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Spectator Mode]
+[03May2025 01:43:51.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Cobweb Entanglement]
+[03May2025 01:44:09.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Survival Mode]
