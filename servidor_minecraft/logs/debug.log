@@ -16266,3 +16266,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 00:52:11.174] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03May2025 00:52:11.198] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [03May2025 00:53:08.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzzzzzzzzzzzzzzzzzz
+[03May2025 00:57:11.321] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 00:57:11.338] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 01:01:29.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Doctor Nick the Super
+[03May2025 01:01:29.975] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:-877, y:53, z:-389, dim:minecraft:overworld]
+[03May2025 01:01:30.000] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[03May2025 01:01:31.499] [Server thread/INFO] [tac/]: PENDING
+[03May2025 01:01:31.525] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[03May2025 01:01:33.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> a
+[03May2025 01:02:11.573] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 01:02:11.595] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 01:03:06.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Not Quite Common]
+[03May2025 01:03:08.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Cover Me With Diamonds]
