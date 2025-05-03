@@ -40,3 +40,25 @@
 [03May2025 01:12:58.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> La del centro
 [03May2025 01:13:19.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tienes cuero we?
 [03May2025 01:13:29.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Que no we
+[03May2025 01:15:42.546] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/37224, l='ServerLevel[world]', x=-1016.47, y=64.00, z=-763.57] died, message: 'Farmer was shot by Stymphalian Bird'
+[03May2025 01:17:25.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Herc was on a Roll!]
+[03May2025 01:20:12.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Pic-A-Nic Basket?]
+[03May2025 01:20:30.414] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 38078
+[03May2025 01:22:08.215] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ab38093
+[03May2025 01:22:08.292] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03May2025 01:22:08.355] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03May2025 01:22:08.356] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kitsette[/127.229.223.71:54303] logged in with entity id 40007 at (-386.44381276615, 70.80558519746606, -612.9410017730978)
+[03May2025 01:22:08.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette joined the game
+[03May2025 01:22:08.365] [Server thread/INFO] [tac/]: PENDING
+[03May2025 01:22:08.389] [Server thread/INFO] [Waila/]: Syncing config to kitsette (075e19b5-ee87-36a3-9437-3acf23b3f13a)
+[03May2025 01:22:12.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> ola
+[03May2025 01:22:26.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> hey is kitsette
+[03May2025 01:22:36.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> oye es el frame
+[03May2025 01:22:40.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kitsette> bolas
+[03May2025 01:23:15.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Pic-A-Nic Basket?]
+[03May2025 01:24:30.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette was slain by Grizzly Bear
+[03May2025 01:24:30.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kitsette has made the advancement [Your First Grave]
+[03May2025 01:24:30.266] [Server thread/INFO] [tombstone/]: The player kitsette has successfully been saved
+[03May2025 01:24:31.698] [Server thread/INFO] [tac/]: PENDING
+[03May2025 01:24:31.750] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[03May2025 01:24:55.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Bat Mode]
