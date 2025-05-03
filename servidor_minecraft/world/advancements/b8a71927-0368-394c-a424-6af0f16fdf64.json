@@ -16447,8 +16447,10 @@
       "shrubland": "2025-05-02 21:53:03 +0000",
       "marsh": "2025-05-03 01:14:37 +0000",
       "orchard": "2025-05-03 00:32:51 +0000",
+      "tall_dead_forest": "2025-05-03 23:37:12 +0000",
       "dryland": "2025-05-02 21:59:46 +0000",
       "dense_woodland": "2025-05-03 00:30:29 +0000",
+      "dead_forest": "2025-05-03 23:37:03 +0000",
       "shrubland_hills": "2025-05-02 21:59:28 +0000",
       "burnt_forest": "2025-05-02 23:08:27 +0000"
     },
@@ -20066,6 +20068,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-05-03 23:39:21 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/thatch_wide_post": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -23597,6 +23605,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-03 23:36:50 +0000",
       "minecraft:birch_forest": "2025-05-02 21:59:26 +0000",
       "minecraft:savanna_plateau": "2025-05-02 21:59:14 +0000",
       "minecraft:river": "2025-05-02 21:59:42 +0000",
