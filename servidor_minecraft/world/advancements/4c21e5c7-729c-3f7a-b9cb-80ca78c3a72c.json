@@ -1322,6 +1322,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-02 05:54:26 +0000",
+      "minecraft:soul_sand_valley": "2025-05-04 00:18:56 +0000",
       "minecraft:warped_forest": "2025-05-02 05:27:51 +0000",
       "minecraft:basalt_deltas": "2025-05-03 23:51:33 +0000"
     },
@@ -9148,6 +9149,12 @@
   "mysticalworld:recipes/mysticalworld/iron_brick_small_post": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:54 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/moltenbeef": {
+    "criteria": {
+      "has_item": "2025-05-04 00:20:54 +0000"
     },
     "done": true
   },
@@ -21748,6 +21755,12 @@
   "botania:recipes/botania/flare_chakram": {
     "criteria": {
       "has_the_recipe": "2025-05-02 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_salamander": {
+    "criteria": {
+      "killed": "2025-05-04 00:20:54 +0000"
     },
     "done": true
   },

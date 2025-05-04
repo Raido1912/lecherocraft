@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 00:22:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_nether_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -7828,6 +7834,12 @@
   "biomesoplenty:recipes/building_blocks/stripped_umbran_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-04 00:21:29 +0000"
     },
     "done": true
   },
@@ -17752,6 +17764,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-04 00:21:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_granite_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -19813,6 +19831,12 @@
   "botania:recipes/botania/lens_bounce": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-04 00:21:29 +0000"
     },
     "done": true
   },

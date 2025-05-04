@@ -11,3 +11,28 @@
 [04May2025 00:13:29.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
 [04May2025 00:13:29.434] [Server thread/INFO] [tac/]: PENDING
 [04May2025 00:13:29.453] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[04May2025 00:20:54.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko has made the advancement [Kaboom, baby!]
+[04May2025 00:21:29.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [How'd You Get This?]
+[04May2025 00:21:29.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [A Stunning Fixation]
+[04May2025 00:21:29.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [It Certainly Seems Rare...]
+[04May2025 00:22:00.336] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Timed out
+[04May2025 00:22:00.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[04May2025 00:22:04.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Neighborhood Brawl]
+[04May2025 00:24:45.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Silent Chills]
+[04May2025 00:25:15.542] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@507fe576[id=<null>,name=JsOPsiko,properties={},legacy=false] (/127.216.60.172:50669) lost connection: Disconnected
+[04May2025 00:25:46.265] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e99ebf2
+[04May2025 00:25:46.324] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:25:46.359] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:25:46.360] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:35665] logged in with entity id 16344 at (-544.3630712875924, 61.0, -510.6402450583805)
+[04May2025 00:25:46.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[04May2025 00:25:46.370] [Server thread/INFO] [tac/]: PENDING
+[04May2025 00:25:46.390] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[04May2025 00:26:16.585] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Timed out
+[04May2025 00:26:16.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[04May2025 00:26:51.762] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1634bb64
+[04May2025 00:26:51.814] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:26:51.846] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:26:51.847] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:51979] logged in with entity id 16475 at (-544.3630712875924, 61.0, -510.6402450583805)
+[04May2025 00:26:51.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[04May2025 00:26:51.857] [Server thread/INFO] [tac/]: PENDING
+[04May2025 00:26:51.876] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
