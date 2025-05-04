@@ -8057,6 +8057,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworelead": {
+    "criteria": {
+      "HasRawOre": "2025-05-04 01:41:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -14435,6 +14441,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-05-04 01:39:30 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/lead_helmet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -20786,7 +20798,8 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "wood": "2025-05-04 01:09:18 +0000"
+      "wood": "2025-05-04 01:09:18 +0000",
+      "rose_gold": "2025-05-04 01:39:15 +0000"
     },
     "done": false
   },
