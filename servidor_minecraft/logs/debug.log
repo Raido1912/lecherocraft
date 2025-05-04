@@ -12660,3 +12660,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 20:55:52.792] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
 [04May2025 20:55:52.839] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [04May2025 20:55:53.018] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[04May2025 20:59:47.366] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 20:59:47.385] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 21:00:20.722] [Worker-Main-45/DEBUG] [mixin/]: Mixing AssemblerMixin from vampirism.mixins.core.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[04May2025 21:00:35.288] [Server thread/INFO] [tac/]: PENDING
+[04May2025 21:00:35.459] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04May2025 21:00:35.459] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04May2025 21:00:35.681] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04May2025 21:00:35.682] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.08 and blood value 0 for entity exoticbirds:gouldianfinch
+[04May2025 21:00:35.749] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[04May2025 21:00:35.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[04May2025 21:03:06.714] [Server thread/INFO] [tac/]: PENDING
+[04May2025 21:04:47.126] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 21:04:47.151] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 21:05:26.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Nightmare Fuel]

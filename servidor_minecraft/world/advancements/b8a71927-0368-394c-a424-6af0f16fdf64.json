@@ -1319,6 +1319,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-04 20:59:17 +0000",
+      "minecraft:warped_forest": "2025-05-04 20:56:14 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/vampirism/vampire/vampire_cloak_white_black": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
@@ -15159,6 +15166,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-04 20:55:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_stripped_oak_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -16571,10 +16584,12 @@
       "orchard": "2025-05-03 00:32:51 +0000",
       "tall_dead_forest": "2025-05-03 23:37:12 +0000",
       "dryland": "2025-05-02 21:59:46 +0000",
+      "visceral_heap": "2025-05-04 20:55:51 +0000",
       "dense_woodland": "2025-05-03 00:30:29 +0000",
       "dead_forest": "2025-05-03 23:37:03 +0000",
       "shrubland_hills": "2025-05-02 21:59:28 +0000",
-      "burnt_forest": "2025-05-02 23:08:27 +0000"
+      "burnt_forest": "2025-05-02 23:08:27 +0000",
+      "undergrowth": "2025-05-04 20:59:21 +0000"
     },
     "done": false
   },
@@ -20822,6 +20837,7 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "cobalt": "2025-05-04 21:02:33 +0000",
       "wood": "2025-05-04 01:09:18 +0000",
       "rose_gold": "2025-05-04 01:39:15 +0000"
     },
@@ -21028,6 +21044,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-04 20:55:51 +0000"
     },
     "done": true
   },

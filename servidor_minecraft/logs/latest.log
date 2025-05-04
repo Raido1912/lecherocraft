@@ -3791,3 +3791,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 20:55:51.261] [Server thread/INFO] [tac/]: PENDING
 [04May2025 20:55:51.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [We Need to Go Deeper]
 [04May2025 20:55:52.355] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[04May2025 21:00:35.288] [Server thread/INFO] [tac/]: PENDING
+[04May2025 21:03:06.714] [Server thread/INFO] [tac/]: PENDING
+[04May2025 21:05:26.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Nightmare Fuel]
