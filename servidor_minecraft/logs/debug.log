@@ -12695,3 +12695,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 21:16:23.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Creative Mode]
 [04May2025 21:17:13.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Survival Mode]
 [04May2025 21:17:19.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has reached the goal [Easy Opening]
+[04May2025 21:19:28.356] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10362, l='ServerLevel[world]', x=92.74, y=17.28, z=-291.47]
+[04May2025 21:19:28.357] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10363, l='ServerLevel[world]', x=92.64, y=14.68, z=-293.26]
+[04May2025 21:19:28.357] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10364, l='ServerLevel[world]', x=91.45, y=16.47, z=-290.61]
+[04May2025 21:19:28.357] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10366, l='ServerLevel[world]', x=94.37, y=16.58, z=-291.38]
+[04May2025 21:19:28.358] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10367, l='ServerLevel[world]', x=91.44, y=17.59, z=-290.63]
+[04May2025 21:19:28.358] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10368, l='ServerLevel[world]', x=93.41, y=15.45, z=-291.47]
+[04May2025 21:19:28.358] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10369, l='ServerLevel[world]', x=90.42, y=19.33, z=-290.64]
+[04May2025 21:19:28.358] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10370, l='ServerLevel[world]', x=92.29, y=19.67, z=-290.70]
+[04May2025 21:19:28.359] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10371, l='ServerLevel[world]', x=95.64, y=20.67, z=-293.28]
+[04May2025 21:19:28.359] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10372, l='ServerLevel[world]', x=93.68, y=14.29, z=-288.62]
+[04May2025 21:19:28.359] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10373, l='ServerLevel[world]', x=94.51, y=16.37, z=-289.61]
+[04May2025 21:19:28.359] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10374, l='ServerLevel[world]', x=90.42, y=16.36, z=-289.51]
+[04May2025 21:19:28.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Nether Cobalt Ore'/10375, l='ServerLevel[world]', x=92.64, y=18.47, z=-289.32]
+[04May2025 21:19:28.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10376, l='ServerLevel[world]', x=94.45, y=18.64, z=-288.60]
+[04May2025 21:19:47.047] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 21:19:47.064] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 21:20:03.688] [Server thread/INFO] [tac/]: PENDING
+[04May2025 21:20:04.001] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.06 and blood value 0 for entity exoticbirds:hummingbird
+[04May2025 21:24:47.123] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 21:24:47.141] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

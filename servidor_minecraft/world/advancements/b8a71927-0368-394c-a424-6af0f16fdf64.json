@@ -4962,6 +4962,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 21:16:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -10800,6 +10806,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 21:17:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/shimmerwood_planks_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
@@ -10863,6 +10875,12 @@
   "farmersdelight:recipes/farmersdelight/purple_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 21:17:19 +0000"
     },
     "done": true
   },
@@ -14736,7 +14754,8 @@
       "tool_binding": "2025-05-04 01:05:11 +0000",
       "small_axe_head": "2025-05-04 01:04:34 +0000",
       "tool_handle": "2025-05-04 01:04:47 +0000",
-      "pickaxe_head": "2025-05-04 01:05:03 +0000"
+      "pickaxe_head": "2025-05-04 01:05:03 +0000",
+      "ingot": "2025-05-04 21:23:44 +0000"
     },
     "done": false
   },
