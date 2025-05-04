@@ -12742,3 +12742,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 21:38:17.941] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.61 and blood value 4 for entity exoticbirds:flamingo
 [04May2025 21:38:17.941] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.61 and blood value 4 for entity exoticbirds:flamingo
 [04May2025 21:38:35.587] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.21 and blood value 0 for entity quark:frog
+[04May2025 21:38:56.862] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[04May2025 21:39:11.375] [Worker-Main-111/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[04May2025 21:39:11.391] [Worker-Main-111/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[04May2025 21:39:47.218] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 21:39:47.237] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 21:44:47.166] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 21:44:47.184] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

@@ -16620,6 +16620,7 @@
       "dead_forest": "2025-05-03 23:37:03 +0000",
       "shrubland_hills": "2025-05-02 21:59:28 +0000",
       "burnt_forest": "2025-05-02 23:08:27 +0000",
+      "dense_marsh": "2025-05-04 21:39:05 +0000",
       "undergrowth": "2025-05-04 20:59:21 +0000"
     },
     "done": false
@@ -18379,6 +18380,12 @@
   "cfm:recipes/cfm/jungle_mail_box": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-04 21:35:30 +0000"
     },
     "done": true
   },
