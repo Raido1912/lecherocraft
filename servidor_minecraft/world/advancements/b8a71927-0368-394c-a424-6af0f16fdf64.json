@@ -2589,6 +2589,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-05-04 01:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -11687,6 +11693,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-05-04 01:04:03 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cooked_seeds": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -14663,6 +14675,16 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "small_blade": "2025-05-04 01:05:20 +0000",
+      "tool_binding": "2025-05-04 01:05:11 +0000",
+      "small_axe_head": "2025-05-04 01:04:34 +0000",
+      "tool_handle": "2025-05-04 01:04:47 +0000",
+      "pickaxe_head": "2025-05-04 01:05:03 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/elementium_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -16777,6 +16799,12 @@
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-05-04 01:09:18 +0000"
+    },
+    "done": false
   },
   "mysticalworld:recipes/mysticalworld/lead_leggings": {
     "criteria": {
@@ -20696,6 +20724,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-04 01:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
@@ -20749,6 +20783,12 @@
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "wood": "2025-05-04 01:09:18 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
@@ -21275,6 +21315,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed": "2025-05-03 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2025-05-04 01:07:21 +0000"
     },
     "done": true
   },
