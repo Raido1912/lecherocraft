@@ -4908,6 +4908,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-04 21:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -13635,6 +13641,12 @@
   "vampirism:recipes/vampirism/vampire/blood_pedestal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-04 21:05:26 +0000"
     },
     "done": true
   },
