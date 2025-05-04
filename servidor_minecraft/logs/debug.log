@@ -13192,3 +13192,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [03May2025 23:54:57.747] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
 [03May2025 23:54:57.748] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
 [03May2025 23:54:57.748] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[03May2025 23:58:15.021] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 23:58:15.043] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 00:02:12.392] [Server thread/DEBUG] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Initiated capture with strength 0.33333334 by vampirism:vampire at BlockPos{x=44, y=70, z=-135} with badomen level 0
+[04May2025 00:03:14.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 00:03:14.985] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 00:05:07.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> alguien a visto un bastion
+[04May2025 00:05:09.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> ?
