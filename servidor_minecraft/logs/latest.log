@@ -1,2 +1,13 @@
 [04May2025 00:05:07.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> alguien a visto un bastion
 [04May2025 00:05:09.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JsOPsiko> ?
+[04May2025 00:08:15.137] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! 1.9392671084642643,0.0,-10.14058137834769
+[04May2025 00:13:03.443] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Timed out
+[04May2025 00:13:03.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[04May2025 00:13:03.545] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[04May2025 00:13:29.324] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71aa7655
+[04May2025 00:13:29.389] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:13:29.422] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:13:29.423] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:33487] logged in with entity id 13924 at (-421.35347562874654, 46.7531999805212, -8.69999998807907)
+[04May2025 00:13:29.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[04May2025 00:13:29.434] [Server thread/INFO] [tac/]: PENDING
+[04May2025 00:13:29.453] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)

@@ -15259,6 +15259,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-05-04 00:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
