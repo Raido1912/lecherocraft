@@ -6797,6 +6797,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-04 00:56:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_phantom": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -18506,6 +18512,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-05-04 00:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -19685,6 +19697,12 @@
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-05-04 01:03:08 +0000"
     },
     "done": true
   },
@@ -25020,6 +25038,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-05-04 01:02:26 +0000"
     },
     "done": true
   },
