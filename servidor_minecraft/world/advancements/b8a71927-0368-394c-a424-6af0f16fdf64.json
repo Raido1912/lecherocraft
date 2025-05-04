@@ -12781,6 +12781,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/cursed_fabric": {
+    "criteria": {
+      "has_item": "2025-05-04 00:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -13612,6 +13618,12 @@
   "mysticalworld:recipes/mysticalworld/antler_hat": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_banshee": {
+    "criteria": {
+      "killed": "2025-05-04 00:24:45 +0000"
     },
     "done": true
   },

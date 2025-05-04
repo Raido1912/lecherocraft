@@ -36,3 +36,33 @@
 [04May2025 00:26:51.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
 [04May2025 00:26:51.857] [Server thread/INFO] [tac/]: PENDING
 [04May2025 00:26:51.876] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[04May2025 00:27:22.085] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Timed out
+[04May2025 00:27:22.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[04May2025 00:28:07.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5074eb85
+[04May2025 00:28:07.173] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:28:07.207] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:28:07.208] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:52211] logged in with entity id 16655 at (-544.9717944361711, 61.0, -511.8994676527985)
+[04May2025 00:28:07.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[04May2025 00:28:07.218] [Server thread/INFO] [tac/]: PENDING
+[04May2025 00:28:07.234] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[04May2025 00:28:37.388] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Timed out
+[04May2025 00:28:37.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[04May2025 00:29:00.361] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ba7a16c
+[04May2025 00:29:00.412] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:29:00.448] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:29:00.449] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:46075] logged in with entity id 16820 at (-535.1080144062197, 60.0, -507.87504568742514)
+[04May2025 00:29:00.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[04May2025 00:29:00.459] [Server thread/INFO] [tac/]: PENDING
+[04May2025 00:29:00.476] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[04May2025 00:31:15.790] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Timed out
+[04May2025 00:31:15.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[04May2025 00:31:52.515] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@53c1c35e
+[04May2025 00:31:52.577] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:31:52.610] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 00:31:52.611] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JsOPsiko[/127.216.60.172:59267] logged in with entity id 17306 at (-573.3287889499904, 70.0, -502.93513391872926)
+[04May2025 00:31:52.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko joined the game
+[04May2025 00:31:52.621] [Server thread/INFO] [tac/]: PENDING
+[04May2025 00:31:52.636] [Server thread/INFO] [Waila/]: Syncing config to JsOPsiko (4c21e5c7-729c-3f7a-b9cb-80ca78c3a72c)
+[04May2025 00:32:22.789] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JsOPsiko lost connection: Timed out
+[04May2025 00:32:22.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JsOPsiko left the game
+[04May2025 00:36:27.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Me Eat Dead People]
