@@ -15790,3 +15790,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 00:33:14.314] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [04May2025 00:33:14.333] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [04May2025 00:36:27.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Me Eat Dead People]
+[04May2025 00:38:14.606] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 00:38:14.624] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 00:43:14.383] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 00:43:14.402] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

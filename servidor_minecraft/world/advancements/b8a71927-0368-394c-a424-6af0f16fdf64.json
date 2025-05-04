@@ -2117,6 +2117,13 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_heater": "2025-05-04 00:42:14 +0000",
+      "seared_melter": "2025-05-04 00:42:16 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/mushroom_12": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -5515,6 +5522,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-05-04 00:38:18 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
@@ -8176,6 +8189,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purpur_slab_from_reinforced_purpur_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2025-05-04 00:38:46 +0000"
     },
     "done": true
   },
@@ -13834,6 +13853,12 @@
   "securitycraft:recipes/securitycraft/reinforced_observer": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-04 00:38:46 +0000"
     },
     "done": true
   },
@@ -21313,6 +21338,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_ghoul": {
+    "criteria": {
+      "killed": "2025-05-04 00:36:27 +0000"
     },
     "done": true
   },
