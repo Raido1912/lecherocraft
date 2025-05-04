@@ -3826,3 +3826,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 21:35:30.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [What a Deal!]
 [04May2025 21:39:11.375] [Worker-Main-111/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
 [04May2025 21:39:11.391] [Worker-Main-111/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[04May2025 22:28:12.260] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3004ecb5
+[04May2025 22:28:12.412] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 22:28:12.501] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04May2025 22:28:12.502] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: totato[/127.51.233.245:55493] logged in with entity id 18238 at (-648.7834199007277, 65.02442408821369, -492.4452016595598)
+[04May2025 22:28:12.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato joined the game
+[04May2025 22:28:12.517] [Server thread/INFO] [tac/]: PENDING
+[04May2025 22:28:12.570] [Server thread/INFO] [Waila/]: Syncing config to totato (180de413-3350-372d-ab6a-d5151a27e3a9)
+[04May2025 22:29:58.196] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! 7.3107018980766725,0.0,7.135286770938819
