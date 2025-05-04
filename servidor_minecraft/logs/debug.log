@@ -12642,3 +12642,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 20:46:12.547] [Server thread/DEBUG] [tombstone/]: A new grave of the player moltgames was created at position [x:-735, y:62, z:-427, dim:minecraft:overworld]
 [04May2025 20:46:12.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Your First Grave]
 [04May2025 20:46:12.556] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[04May2025 20:49:47.129] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 20:49:47.155] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 20:51:04.735] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: moltgames has new faction level vampirism:vampire 4
+[04May2025 20:51:04.747] [Server thread/INFO] [tac/]: PENDING
+[04May2025 20:51:04.795] [Server thread/DEBUG] [twilightforest/]: Player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64) respawned and received items held in storage
+[04May2025 20:51:05.835] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[04May2025 20:51:05.842] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[04May2025 20:54:47.278] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04May2025 20:54:47.303] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04May2025 20:55:51.261] [Server thread/INFO] [tac/]: PENDING
+[04May2025 20:55:51.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [We Need to Go Deeper]
+[04May2025 20:55:52.355] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[04May2025 20:55:52.534] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[04May2025 20:55:52.591] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[04May2025 20:55:52.792] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[04May2025 20:55:52.792] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[04May2025 20:55:52.839] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[04May2025 20:55:53.018] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider

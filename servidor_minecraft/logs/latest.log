@@ -3787,3 +3787,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 20:46:12.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames did not like the sun
 [04May2025 20:46:12.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Your First Grave]
 [04May2025 20:46:12.556] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[04May2025 20:51:04.747] [Server thread/INFO] [tac/]: PENDING
+[04May2025 20:55:51.261] [Server thread/INFO] [tac/]: PENDING
+[04May2025 20:55:51.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [We Need to Go Deeper]
+[04May2025 20:55:52.355] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
