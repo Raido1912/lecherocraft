@@ -2120,9 +2120,12 @@
   "tconstruct:smeltery/melter": {
     "criteria": {
       "seared_heater": "2025-05-04 00:42:14 +0000",
+      "seared_table": "2025-05-04 00:45:38 +0000",
+      "seared_basin": "2025-05-04 00:48:20 +0000",
+      "seared_faucet": "2025-05-04 00:45:17 +0000",
       "seared_melter": "2025-05-04 00:42:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "botania:recipes/botania/mushroom_12": {
     "criteria": {
@@ -24939,6 +24942,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_stairs_from_reinforced_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2025-05-04 00:45:59 +0000"
     },
     "done": true
   },
