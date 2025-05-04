@@ -3823,3 +3823,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [04May2025 21:19:28.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Nether Cobalt Ore'/10375, l='ServerLevel[world]', x=92.64, y=18.47, z=-289.32]
 [04May2025 21:19:28.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10376, l='ServerLevel[world]', x=94.45, y=18.64, z=-288.60]
 [04May2025 21:20:03.688] [Server thread/INFO] [tac/]: PENDING
+[04May2025 21:35:30.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [What a Deal!]
